@@ -14,10 +14,11 @@
         <link href="css/main.css" rel="stylesheet" media="screen">
         <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
         <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css/subnav.css">
         <link rel="stylesheet" href="css/potteries.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
     </head>
-    <body>
+    <body data-spy="scroll" data-target=".subnav" data-offset="100">
         <!--[if lt IE 7]>
             <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
         <![endif]-->
@@ -42,7 +43,7 @@
               <div class="subnav">
                 <ul class="nav nav-pills">
                   <li class="active"><a href="http://potterieshackspace.org/">Home</a></li>
-                  <li><a href="#about">Projects</a></li>
+                  <li><a href="#projects">Projects</a></li>
                   <li><a href="#about">About</a></li>
                   <li><a href="#contact">Contact</a></li>
                 </ul>
@@ -143,6 +144,7 @@
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
         <script src="js/bootstrap.min.js"></script>
+        <script src="js/subnav.js"></script>
 
         <script>
             var _gaq=[['_setAccount','UA-37712920-1'],['_trackPageview']];
