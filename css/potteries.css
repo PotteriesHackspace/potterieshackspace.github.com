@@ -1,0 +1,17 @@
+div.one {
+  padding: 25px 0;
+  text-align:right;
+}
+header h1 {
+  background: url(../img/potteries-hackspace-logo.png) no-repeat;
+  width: 100%;
+  height: 87px;
+}
+.hero-unit {
+  background-image: url(../img/hero.jpg);
+  background-size: 100%;
+  background-repeat:no-repeat;
+  background-position:left 75%;
+  color: #fff;
+  text-shadow: 0 3px 3px rgba(0,0,0,.8);
+}
