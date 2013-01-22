@@ -38,6 +38,7 @@
                   <li class="active"><a href="http://potterieshackspace.org/">Home</a></li>
                   <li><a href="#projects">Projects</a></li>
                   <li><a href="#about">About</a></li>
+                  <li><a href="#who">Who</a></li>
                   <li><a href="#contact">Contact</a></li>
                   <li class="pull-right"><a href="https://www.google.com/calendar/embed?src=00nfs1crll5qrehok98qmmitlc%40group.calendar.google.com&ctz=Europe/London"><i class="icon-calendar icon-large"></i></a></li>
                   <li class="pull-right"><a href="http://www.twitter.com/potterieshacks"><i class="icon-twitter icon-large"></i></a></li>
@@ -101,6 +102,17 @@
                 </div>
                 <iframe width="100%" height="555" frameBorder="0" src="https://docs.google.com/document/d/17LUUIg7a1fD4wgWC4sYVT9c93BQNqPV47vryOKjfSUw/pub?embedded=true"></iframe>
             </section>
+            
+            <section id="who">
+                <div class="page-header">
+                    <h1>Who's involved</h1>
+                </div>
+                <p>Here's who's involved in the project...</p>
+                <div class="row-fluid">
+                  <noscript>Sorry, you'll need to turn on javascript to see the profiles.</noscript>
+                  <div id="profiles"></div>
+                </div>
+            </section>
 
             <section id="contact">
                 <div class="page-header">
@@ -138,12 +150,32 @@
           </footer>
         </div>
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.8.3.min.js"><\/script>')</script>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/subnav.js"></script>
+
+        <script type="text/javascript">
+        function ProfileMe( profile ) {
+          username = profile.entry[0].preferredUsername;
+          thumbnail = profile.entry[0].thumbnailUrl;
+          name = profile.entry[0].displayName;
+          about = profile.entry[0].aboutMe;
+          
+          profilehtml = $('<div id="'+username+'" class="span3 pagination-centered">');
+          imghtml = $('<img class="img-circle" src="'+thumbnail+'" alt="'+username+'">');
+          headhtml = $('<h3>').append(name);
+          abouthtml = $('<p>').append(about);
+          profilehtml = $(profilehtml).append(imghtml).append(headhtml).append(abouthtml);
+          $('div#profiles').append(profilehtml);
+        }
+        </script>
+        <script src="http://www.gravatar.com/jpswade.json?callback=ProfileMe" type="text/javascript"></script>
+        <script src="http://www.gravatar.com/frazzledbadger01.json?callback=ProfileMe" type="text/javascript"></script>
+        <script src="http://www.gravatar.com/ae3f7abaa7313cfaf0167b593f5ae328.json?callback=ProfileMe" type="text/javascript"></script>
+        <script src="http://www.gravatar.com/ae3f7abaa7313cfaf0167b593f5ae328.json?callback=ProfileMe" type="text/javascript"></script>
 
         <script>
             var _gaq=[['_setAccount','UA-37712920-1'],['_trackPageview']];
