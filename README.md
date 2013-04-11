@@ -20,7 +20,6 @@ The website has the following features:
 * Large "hero unit" callout, featuring a photo background
 * Section for rows of three projects
 * Section for about, an embedded Google Document
-* Section for who's involved, powered by jQuery and Gravatar
 * Section for people to get in touch and a map of our location 
 
 This website was produced thanks to these excellent "out of the box" solutions:
@@ -28,8 +27,6 @@ This website was produced thanks to these excellent "out of the box" solutions:
 * [HTML5 Boilerplate](http://htm5boilerplate.com/)
 * [Bootstrap](http://getbootstrap.com/)
 * [Font Awesome](http://fortawesome.github.com/Font-Awesome/)
-* [jQuery](http://jquery)
-* [Gravatar](http://gravatar.com/)
 * [Google Drive](http://drive.google.com/)
 * [Google Maps](http://maps.google.com/)
 
