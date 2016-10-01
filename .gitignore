@@ -1,3 +1,8 @@
 # Include your project-specific ignores in this file
 # Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
-/nbproject/private/
+nbproject
+.idea
+_site
+.sass-cache
+.jekyll-metadata
+desktop.ini
