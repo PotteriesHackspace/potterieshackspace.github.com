@@ -1,23 +1,24 @@
 .blog-theme-class {
-  margin-top:0.3%;
-  padding:3%;
-  background:#008cba;
+  margin-top: 0.3%;
+  padding: 3%;
+  background: $feature-color;
   .jumb-bot {
-    background:#008cba;
-    
+    background: $feature-color;
+
   }
-  .jumbotron{
-    background:#008cba;
+  .jumbotron {
+    background: $feature-color;
     h1 {
-      color :#fff;
+      color: #fff;
     }
-    p{
-      color:#fff;
+    p {
+      color: #fff;
     }
   }
 }
+
 .blog-post-small {
-  border-bottom: #008CBA 1px dashed;
+  border-bottom: $feature-color 1px dashed;
   text-align: justify;
   padding: 10px;
   p {
@@ -26,14 +27,14 @@
 }
 
 .navbar {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 .jumb-bot {
 }
 
 .jumb-bot-jumbu {
-  margin: 0px;
+  margin: 0;
   padding-top: 15px;
   padding-bottom: 20px;
   background: #eee;
@@ -53,50 +54,57 @@
 .listgroup-div {
   margin-top: 10px;
 }
-.author_block{
-  padding:2%;
-  p{
+
+.author_block {
+  padding: 2%;
+  p {
     line-height: 44px;
     font-size: 13px;
   }
-  ul{
+  ul {
     display: block;
-    float:left;
-    li{
-      float:left;
-      display:block;
+    float: left;
+    li {
+      float: left;
+      display: block;
       font-size: 24px;
       padding: 5px;
-      a{
-        text-decoration:none;
+      a {
+        text-decoration: none;
       }
     }
   }
 }
+
 .blog-post-content {
   font-size: 14px;
-  img{
-    max-width:100%;
-    border:#eee 2px solid;
+  img {
+    max-width: 100%;
+    border: #eee 2px solid;
   }
 }
-.twitter_share{
-  float:left;
-  padding:10px;
+
+.twitter_share {
+  float: left;
+  padding: 10px;
 }
-.fb_share{
-  float:left;
-  padding:10px;
+
+.fb_share {
+  float: left;
+  padding: 10px;
 }
-.linkedin_share{
-  float:left;
-  padding:10px;
-  padding-left:0px;
+
+.linkedin_share {
+  float: left;
+  padding: 10px;
+  padding-left: 0;
 }
-.g_share{
-  float:left;
-  padding:10px;
+
+.g_share {
+  float: left;
+  padding: 10px;
 }
+
 .footer {
   a {
     font-size: 13px;
@@ -110,11 +118,13 @@
     color: #fff;
   }
 }
-.share-div{
-  padding:3%;
-  padding-left:1%;
-  padding-top:1%;
+
+.share-div {
+  padding: 3%;
+  padding-left: 1%;
+  padding-top: 1%;
 }
+
 .recent_posts li {
   display: block;
   color: #fff;
@@ -124,8 +134,8 @@
   background: #222222;
   margin-top: 10px;
   ul {
-    margin-left: 0px;
-    padding-left: 0px;
+    margin-left: 0;
+    padding-left: 0;
     li a:hover {
       text-decoration: underline;
     }
@@ -154,7 +164,7 @@
   margin-right: auto;
   width: 150px;
   height: 150px;
-  padding: 0px;
+  padding: 0;
 }
 
 @media screen and (max-width: 480px) {

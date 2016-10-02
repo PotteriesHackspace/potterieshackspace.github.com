@@ -1,4 +1,7 @@
 // Our variables
+//$feature-color: #008cba; // Blue.
+$feature-color: #EA212E;
+
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size: 16px;
 $small-font-size: $base-font-size * 0.875;
@@ -32,6 +35,8 @@ $on-laptop: 800px;
     @content;
   }
 }
+
+@import url("//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700");
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "../_sass/base",

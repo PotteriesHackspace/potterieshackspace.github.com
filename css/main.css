@@ -5557,28 +5557,28 @@ label, .control-label, .help-block, .checkbox, .radio {
 .blog-theme-class {
   margin-top: 0.3%;
   padding: 3%;
-  background: #008cba; }
+  background: #EA212E; }
   .blog-theme-class .jumb-bot {
-    background: #008cba; }
+    background: #EA212E; }
   .blog-theme-class .jumbotron {
-    background: #008cba; }
+    background: #EA212E; }
     .blog-theme-class .jumbotron h1 {
       color: #fff; }
     .blog-theme-class .jumbotron p {
       color: #fff; }
 
 .blog-post-small {
-  border-bottom: #008CBA 1px dashed;
+  border-bottom: #EA212E 1px dashed;
   text-align: justify;
   padding: 10px; }
   .blog-post-small p {
     font-size: 14.43px; }
 
 .navbar {
-  margin-bottom: 0px; }
+  margin-bottom: 0; }
 
 .jumb-bot-jumbu {
-  margin: 0px;
+  margin: 0;
   padding-top: 15px;
   padding-bottom: 20px;
   background: #eee; }
@@ -5627,7 +5627,7 @@ label, .control-label, .help-block, .checkbox, .radio {
 .linkedin_share {
   float: left;
   padding: 10px;
-  padding-left: 0px; }
+  padding-left: 0; }
 
 .g_share {
   float: left;
@@ -5655,8 +5655,8 @@ label, .control-label, .help-block, .checkbox, .radio {
   background: #222222;
   margin-top: 10px; }
   .footer ul {
-    margin-left: 0px;
-    padding-left: 0px; }
+    margin-left: 0;
+    padding-left: 0; }
     .footer ul li a:hover {
       text-decoration: underline; }
 
@@ -5679,7 +5679,7 @@ label, .control-label, .help-block, .checkbox, .radio {
   margin-right: auto;
   width: 150px;
   height: 150px;
-  padding: 0px; }
+  padding: 0; }
 
 @media screen and (max-width: 480px) {
   .left-syms li a span {
