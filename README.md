@@ -1,17 +1,22 @@
-# [Potteries Hackspace Website](http://potterieshackspace.org)
+# [Potteries Hackspace Website](http://potterieshackspace.org/)
 
-This is the source code for the Potteries Hackspace Website.
+This is the source code for the Potteries Hackspace website.
 
-Originally we used a third party wiki as our homepage, however,
- the page was lost through no fault of our own.
+## Background
 
-So this was designed to be an easy to maintain, portable web page,
- which resulted in a single static HTML page.
+### 2010
 
-* [Source](https://github.com/PotteriesHackspace/potterieshackspace.github.com)
-* [Website](http://potterieshackspace.org)
+Since around 2010, we used a [third party wiki as our homepage](http://www.hackspace.org.uk/wiki/Main_Page), 
+ however, the page was lost through no fault of our own, so we decided to launch our own website.
 
-## Features
+### 2012
+
+This was designed to be an easy to maintain, portable web page, which resulted in a single static HTML page.
+
+* [Source](https://github.com/PotteriesHackspace/potterieshackspace.github.com/)
+* [Website](http://potterieshackspace.org/)
+
+### Features
 
 The website has the following features:
 
@@ -30,16 +35,25 @@ This website was produced thanks to these excellent "out of the box" solutions:
 * [Google Drive](http://drive.google.com/)
 * [Google Maps](http://maps.google.com/)
 
-## Usage
+# 2014
 
-We've made this open source so you can use it too!
+Since, in 2014, we moved to a Wordpress powered blog. Here we created the
+ [Hackspacious theme](https://github.com/PotteriesHackspace/hackspacious) for Hackspaces, a child of the Spacious theme.
 
-If like us your group need your own webpage, don't rely on a third party wiki.
+# 2016
 
-Instead, use this!
+In 2016, we decided to move away from Wordpress, mainly due to the maintenance overhead.
 
-Simply, fork the project to your own organisation on GitHub and get started!
+Based on experience with [GitHub and Jekyll](http://wade.be/2016/01/30/welcome-to-jekyll.html) a decided was made to
+ migrate our content away from Wordpress to Jekyll hosted on GitHub.
+ 
+This has been made possible by the following:
 
-Read more:
-* [User, Organization and Project Pages](https://help.github.com/articles/user-organization-and-project-pages)
-* [Setting up a custom domain with Pages](https://help.github.com/articles/setting-up-a-custom-domain-with-pages)
+* [GitHub](https://github.com/) for the hosting
+* [disqus](http://disqus.com/admin/create/) for the comments hosting
+* Ben Balter for the [WordPress to Jekyll Exporter plugin](https://github.com/benbalter/wordpress-to-jekyll-exporter)
+* [jekyll](https://jekyllrb.com/) for the blog engine
+* [jekyllthemes](http://jekyllthemes.org/) for helping us find a suitable theme
+* [Pranav Raj S](https://github.com/pranavrajs) for his [Swift theme](http://pranavrajs.github.io/swift/)
+
+Thanks.
