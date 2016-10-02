@@ -35,9 +35,14 @@ This website was produced thanks to these excellent "out of the box" solutions:
 * [Google Drive](http://drive.google.com/)
 * [Google Maps](http://maps.google.com/)
 
+# 2013
+
+We then creased a blog on Wordpress.com for the [Potteries Hackspace](https://potterieshackspace.wordpress.com/), but
+ we soon hit limitations.
+
 # 2014
 
-Since, in 2014, we moved to a Wordpress powered blog. Here we created the
+Since, in 2014, we moved to a Wordpress powered blog, hosted on a Bitfolk VPS server. Here we created the
  [Hackspacious theme](https://github.com/PotteriesHackspace/hackspacious) for Hackspaces, a child of the Spacious theme.
 
 # 2016
