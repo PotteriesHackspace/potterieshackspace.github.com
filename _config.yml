@@ -7,9 +7,9 @@ favicon: /favicon.png
 feedburner_username:
 twitter_username: potterieshacks
 github_username:  PotteriesHackspace
-google_analytics_id:
-gplus_username:
-fb_username:
+google_analytics_id: UA-37712920-1
+gplus_username: PotteriesHackspace
+fb_username: potterieshackspace
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
 disqus_short_name: potterieshackspace
