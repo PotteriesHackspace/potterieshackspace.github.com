@@ -1127,14 +1127,14 @@ input, button, select, textarea {
 }
 
 a {
-  color: $feature-color-light;
+  color: $feature-color;
   text-decoration: none;
   &:hover {
-    color: #00526e;
+    color: $feature-color-dark;
     text-decoration: underline;
   }
   &:focus {
-    color: #00526e;
+    color: $feature-color-dark;
     text-decoration: underline;
     outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
@@ -3613,7 +3613,7 @@ fieldset[disabled] .btn-link {
     border-color: transparent;
   }
   &:hover, &:focus {
-    color: #00526e;
+    color: $feature-color-dark;
     text-decoration: underline;
     background-color: transparent;
   }
@@ -5106,7 +5106,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover, .navbar-inverse .btn-link[di
       }
       > {
         a:hover, span:hover, a:focus, span:focus {
-          color: #00526e;
+          color: $feature-color-dark;
           background-color: #eeeeee;
           border-color: transparent;
         }

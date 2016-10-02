@@ -860,13 +860,13 @@ input, button, select, textarea {
   line-height: inherit; }
 
 a {
-  color: #fcdbdd;
+  color: #EA212E;
   text-decoration: none; }
   a:hover {
-    color: #00526e;
+    color: #7f0c14;
     text-decoration: underline; }
   a:focus {
-    color: #00526e;
+    color: #7f0c14;
     text-decoration: underline;
     outline: thin dotted;
     outline: 5px auto -webkit-focus-ring-color;
@@ -2782,7 +2782,7 @@ fieldset[disabled] .btn-link {
   .btn-link:hover, .btn-link:focus, .btn-link:active {
     border-color: transparent; }
   .btn-link:hover, .btn-link:focus {
-    color: #00526e;
+    color: #7f0c14;
     text-decoration: underline;
     background-color: transparent; }
   .btn-link[disabled]:hover {
@@ -3826,7 +3826,7 @@ fieldset[disabled] .navbar-inverse .btn-link:hover, .navbar-inverse .btn-link[di
       border-bottom-right-radius: 0;
       border-top-right-radius: 0; }
     .pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
-      color: #00526e;
+      color: #7f0c14;
       background-color: #eeeeee;
       border-color: transparent; }
   .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
