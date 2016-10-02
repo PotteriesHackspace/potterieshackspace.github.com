@@ -1353,7 +1353,7 @@ mark, .mark {
 }
 
 a.text-primary:hover {
-  color: #006687;
+  color: $feature-color-dark;
 }
 
 .text-success {
@@ -1394,7 +1394,7 @@ a.text-danger:hover {
 }
 
 a.bg-primary:hover {
-  background-color: #006687;
+  background-color: $feature-color-dark;
 }
 
 .bg-success {
@@ -3132,14 +3132,14 @@ fieldset[disabled] .btn-default.active {
   border-color: #0079a1;
   &:hover, &:focus, &:active, &.active {
     color: #ffffff;
-    background-color: #006687;
+    background-color: $feature-color-dark;
     border-color: #004b63;
   }
 }
 
 .open > .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #006687;
+  background-color: $feature-color-dark;
   border-color: #004b63;
 }
 
@@ -4936,7 +4936,7 @@ fieldset[disabled] .navbar-default .btn-link:hover, .navbar-default .btn-link[di
 
 .navbar-inverse {
   background-color: #008cba;
-  border-color: #006687;
+  border-color: $feature-color-dark;
   .navbar-brand {
     color: #ffffff;
     &:hover, &:focus {
@@ -4952,15 +4952,15 @@ fieldset[disabled] .navbar-default .btn-link:hover, .navbar-default .btn-link[di
       color: #ffffff;
       &:hover, &:focus {
         color: #ffffff;
-        background-color: #006687;
+        background-color: $feature-color-dark;
       }
     }
     .active > a {
       color: #ffffff;
-      background-color: #006687;
+      background-color: $feature-color-dark;
       &:hover, &:focus {
         color: #ffffff;
-        background-color: #006687;
+        background-color: $feature-color-dark;
       }
     }
     .disabled > a {
@@ -4982,13 +4982,13 @@ fieldset[disabled] .navbar-default .btn-link:hover, .navbar-default .btn-link[di
     }
   }
   .navbar-collapse, .navbar-form {
-    border-color: #007196;
+    border-color: $feature-color;
   }
   .navbar-nav > .open > a {
-    background-color: #006687;
+    background-color: $feature-color-dark;
     color: #ffffff;
     &:hover, &:focus {
-      background-color: #006687;
+      background-color: $feature-color-dark;
       color: #ffffff;
     }
   }
@@ -5012,25 +5012,25 @@ fieldset[disabled] .navbar-default .btn-link:hover, .navbar-default .btn-link[di
 @media (max-width: 767px) {
   .navbar-inverse .navbar-nav .open .dropdown-menu {
     > .dropdown-header {
-      border-color: #006687;
+      border-color: $feature-color-dark;
     }
     .divider {
-      background-color: #006687;
+      background-color: $feature-color-dark;
     }
     > {
       li > a {
         color: #ffffff;
         &:hover, &:focus {
           color: #ffffff;
-          background-color: #006687;
+          background-color: $feature-color-dark;
         }
       }
       .active > a {
         color: #ffffff;
-        background-color: #006687;
+        background-color: $feature-color-dark;
         &:hover, &:focus {
           color: #ffffff;
-          background-color: #006687;
+          background-color: $feature-color-dark;
         }
       }
       .disabled > a {
@@ -5287,7 +5287,7 @@ a.label {
   background-color: #008cba;
   &[href] {
     &:hover, &:focus {
-      background-color: #006687;
+      background-color: $feature-color-dark;
     }
   }
 }
@@ -7193,13 +7193,13 @@ button.close {
         color: #ffffff;
       }
       &:hover {
-        background-color: #006687;
+        background-color: $feature-color-dark;
       }
     }
     .active > a {
-      background-color: #006687;
+      background-color: $feature-color-dark;
       &:hover {
-        background-color: #006687;
+        background-color: $feature-color-dark;
       }
     }
   }
