@@ -1,7 +1,6 @@
 title: Potteries Hackspace
 description: The Potteries Hackspace website.
 email: admin@potterieshackspace.org
-baseurl: /
 url: "http://potterieshackspace.github.io"
 favicon: /favicon.png
 feedburner_username:
