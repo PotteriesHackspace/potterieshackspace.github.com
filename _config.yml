@@ -12,6 +12,7 @@ gplus_username: PotteriesHackspace
 fb_username: potterieshackspace
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
+paginate: 5
 disqus_short_name: potterieshackspace
 disqus_show_comment_count: true
 authors:
