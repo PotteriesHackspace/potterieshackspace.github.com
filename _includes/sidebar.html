@@ -1,0 +1,27 @@
+<!-- SideBar -->
+<div class="col-md-3">
+    {% if site.feedburner_username %}
+    <div class="panel panel-primary" style="margin-top:10%;">
+        <div class="panel-body">
+
+            <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow"
+                  onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri={{site.feedburner_username}}', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+                <div class="input-group">
+                    <input type="text" class="form-control" name="email"/>
+                    <input type="hidden" value="maangalabs" name="uri"/>
+                    <input type="hidden" name="loc" value="en_US"/>
+                        <span class="input-group-btn">
+                          <input type="submit" class="btn btn-primary" value="Subscribe Us"/>
+                        </span>
+                </div>
+                <p><a href="http://feeds.feedburner.com/{{site.feedburner_username}}"><img
+                        style="margin-left:auto;margin-right:auto;"
+                        src="http://feeds.feedburner.com/~fc/{{site.feedburner_username}}?bg=007196&amp;fg=FFFFFF&amp;anim=1"
+                        height="26" width="88" style="border:1;" alt=""/></a></form>
+
+        </div>
+
+    </div>
+    {% endif %}
+</div>
+<!-- End Sidebar -->
