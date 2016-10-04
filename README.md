@@ -35,23 +35,23 @@ This website was produced thanks to these excellent "out of the box" solutions:
 * [Google Drive](http://drive.google.com/)
 * [Google Maps](http://maps.google.com/)
 
-# 2013
+### 2013
 
 We then creased a blog on Wordpress.com for the [Potteries Hackspace](https://potterieshackspace.wordpress.com/), but
  we soon hit limitations.
 
-# 2014
+### 2014
 
 Since, in 2014, we moved to a Wordpress powered blog, hosted on a Bitfolk VPS server. Here we created the
  [Hackspacious theme](https://github.com/PotteriesHackspace/hackspacious) for Hackspaces, a child of the Spacious theme.
 
-# 2016
+# About
 
 In 2016, we decided to move away from Wordpress, mainly due to the maintenance overhead.
 
 Based on experience with [GitHub and Jekyll](http://wade.be/2016/01/30/welcome-to-jekyll.html) a decided was made to
  migrate our content away from Wordpress to Jekyll hosted on GitHub.
- 
+
 This has been made possible by the following:
 
 * [GitHub](https://github.com/) for the hosting
