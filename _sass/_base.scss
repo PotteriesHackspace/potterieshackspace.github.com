@@ -3128,19 +3128,19 @@ fieldset[disabled] .btn-default.active {
 
 .btn-primary {
   color: #ffffff;
-  background-color: $feature-color-light;
-  border-color: #0079a1;
+  background-color: $feature-color;
+  border-color: $feature-color-dark;
   &:hover, &:focus, &:active, &.active {
     color: #ffffff;
     background-color: $feature-color-dark;
-    border-color: #004b63;
+    border-color: $feature-color;
   }
 }
 
 .open > .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: $feature-color-dark;
-  border-color: #004b63;
+  background-color: $feature-color;
+  border-color: $feature-color-dark;
 }
 
 .btn-primary {
@@ -3156,61 +3156,61 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
   &.disabled, &[disabled] {
     background-color: $feature-color-light;
-    border-color: #0079a1;
+    border-color: $feature-color-dark;
   }
 }
 
 fieldset[disabled] .btn-primary {
   background-color: $feature-color-light;
-  border-color: #0079a1;
+  border-color: $feature-color-dark;
 }
 
 .btn-primary {
   &.disabled:hover, &[disabled]:hover {
     background-color: $feature-color-light;
-    border-color: #0079a1;
+    border-color: $feature-color-dark;
   }
 }
 
 fieldset[disabled] .btn-primary:hover {
   background-color: $feature-color-light;
-  border-color: #0079a1;
+  border-color: $feature-color-dark;
 }
 
 .btn-primary {
   &.disabled:focus, &[disabled]:focus {
     background-color: $feature-color-light;
-    border-color: #0079a1;
+    border-color: $feature-color-dark;
   }
 }
 
 fieldset[disabled] .btn-primary:focus {
   background-color: $feature-color-light;
-  border-color: #0079a1;
+  border-color: $feature-color-dark;
 }
 
 .btn-primary {
   &.disabled:active, &[disabled]:active {
     background-color: $feature-color-light;
-    border-color: #0079a1;
+    border-color: $feature-color-dark;
   }
 }
 
 fieldset[disabled] .btn-primary:active {
   background-color: $feature-color-light;
-  border-color: #0079a1;
+  border-color: $feature-color-dark;
 }
 
 .btn-primary {
   &.disabled.active, &[disabled].active {
     background-color: $feature-color-light;
-    border-color: #0079a1;
+    border-color: $feature-color-dark;
   }
 }
 
 fieldset[disabled] .btn-primary.active {
   background-color: $feature-color-light;
-  border-color: #0079a1;
+  border-color: $feature-color-dark;
 }
 
 .btn-primary .badge {
@@ -7246,12 +7246,12 @@ button.close {
       }
     }
     &.btn-primary ~ .dropdown-menu {
-      background-color: $feature-color-light;
-      border-color: #0079a1;
+      background-color: $feature-color;
+      border-color: $feature-color-dark;
       > li > a {
         color: #ffffff;
         &:hover {
-          background-color: #006d91;
+          background-color: $feature-color-dark;
         }
       }
     }
