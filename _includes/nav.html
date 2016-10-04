@@ -1,0 +1,23 @@
+{% assign url_parts = page.url | split: '/' %}
+{% assign url_parts_size = url_parts | size %}
+{% if url_parts_size != 0 %}
+{% assign rm = url_parts | last %}
+{% assign base_url = page.url | replace: rm %}
+{% else %}
+{% assign base_url = page.url %}
+{% endif %}
+<ul class="nav navbar-nav">
+    {% for node in site.pages %}
+    {% assign node_url_parts = node.url | split: '/' %}
+    {% assign node_url_parts_size = node_url_parts | size %}
+    {% assign filename = node_url_parts | last %}
+    {% if node_url_parts_size == 2 %}
+    {% unless filename contains '.xml' %}
+    <li><a class="{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
+    {% endunless %}
+    {% endif %}
+    {% endfor %}
+    {% for num in (1...menu_level) %}
+</ul>
+{% endfor %}
+</ul>
