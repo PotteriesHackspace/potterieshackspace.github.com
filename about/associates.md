@@ -8,6 +8,7 @@ guid: http://potterieshackspace.org/?page_id=1184
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2013/10/dsc_1751.jpg
+parent: about
 ---
 We&#8217;re grateful to be connected with a number of companies and organisation around the city, county, country, world; all of whom have contributed to bringing the Potteries Hackspace to life.
 

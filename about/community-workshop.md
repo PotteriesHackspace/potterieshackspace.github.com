@@ -7,6 +7,7 @@ layout: page
 guid: http://potterieshackspace.org/?page_id=1284
 spacious_page_layout:
   - default_layout
+parent: about
 ---
 We&#8217;re the Potteries Hackspace community group. Our space is the the only community workshop in Staffordshire.
 

@@ -8,6 +8,7 @@ guid: http://potterieshackspace.org/?page_id=1271
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2015/07/image3.jpg
+parent: events
 ---
 Make:Shift:Do is a UK wide doors open festival of digital making.
 

@@ -9,22 +9,13 @@
     </div>
     <div class="navbar-collapse collapse navbar-inverse-collapse">
         <ul class="nav navbar-nav">
-            <!--{% for page in site.pages %}
-            {% if page.title %}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endif %}
-            {% endfor %}-->
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages<b class="caret"></b></a>
-                <ul class="dropdown-menu">
-                    {% for page in site.pages %}
-                    {% if page.title %}
-                    <li><a href="{{ page.url | prepend: site.baseurl }}" style="text-transform : uppercase;">{{
-                        page.title }}</a></li>
+            {% for page in site.pages %}
+                {% if page.title %}
+                    {% if not page.parent %}
+                    <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
                     {% endif %}
-                    {% endfor %}
-                </ul>
-            </li>
+                {% endif %}
+            {% endfor %}
         </ul>
         <ul class="nav navbar-nav navbar-right left-syms">
             <li><a href="https://facebook.com/{{site.fb_username}}" target="_blank"><i

@@ -8,6 +8,7 @@ guid: http://potterieshackspace.org/?page_id=1127
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2015/04/path2998.png
+parent: events
 ---
 <h2 style="text-align: center;">
   <a href="http://potterieshackspace.org/wp-content/uploads/2015/04/path2998.png"><img class="alignnone size-full wp-image-1125" src="http://potterieshackspace.org/wp-content/uploads/2015/04/path2998.png" alt="path2998" width="280" height="293" /></a>

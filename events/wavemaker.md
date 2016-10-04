@@ -8,6 +8,7 @@ guid: http://potterieshackspace.org/?page_id=1162
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2015/04/high-res-wavamaker-square.png
+parent: events
 ---
 The first [Wavemaker event](http://wavemaker.org.uk/) was a taster session that took place on 6th and 7th February 2015, at the [Mitchell Arts Centre](http://www.mitchellartscentre.co.uk/) in Stoke-on-Trent and explored the demand and interests of the local community in technology.
 

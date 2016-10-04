@@ -5,8 +5,6 @@ date: 2013-01-22T10:53:46+00:00
 author: admin
 layout: page
 guid: http://potterieshackspace.wordpress.com/?page_id=1
-spacious_page_layout:
-  - default_layout
 ---
 There are [hackspaces all around the world](http://hackerspaces.org/wiki/List_of_Hacker_Spaces) and now there’s one in [The Potteries](https://en.wikipedia.org/wiki/Stoke-on-Trent_Built-up_Area) (Stoke-on-Trent Built-up Area).
 

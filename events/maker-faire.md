@@ -8,6 +8,7 @@ guid: http://potterieshackspace.org/?page_id=1173
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2014/09/Maker-Faire-UK-Crowd-Scene1.jpg
+parent: events
 ---
 We&#8217;ve attended a number of Maker Faires both as individuals and as a group.
 

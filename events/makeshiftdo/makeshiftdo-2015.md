@@ -7,6 +7,7 @@ layout: page
 guid: http://potterieshackspace.org/?page_id=1312
 spacious_page_layout:
   - default_layout
+parent: makeshiftdo
 ---
 Some images and stuff from Potteries Hackspace Make:Shift:Do 2015 open doors day:
 

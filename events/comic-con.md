@@ -8,6 +8,7 @@ guid: http://potterieshackspace.org/?page_id=1175
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2015/04/2015-04-19-11.08.46.jpg
+parent: events
 ---
 Stoke Con Trent is a comic and memorabilia exhibition in Stoke on Trent, Staffordshire, With top name celebrates, cosplay and loads of family fun and events.
 

@@ -8,6 +8,7 @@ guid: http://potterieshackspace.org/?page_id=1231
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2014/09/Stoke-International-Open-Data-Hackathon-maxresdefault.jpg
+parent: events
 ---
 A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others involved in software development and hardware development, including graphic designers, interface designers and project managers, collaborate intensively on software projects.
 

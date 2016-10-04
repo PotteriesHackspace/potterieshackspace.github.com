@@ -7,6 +7,7 @@ layout: page
 guid: http://potterieshackspace.org/?page_id=1207
 spacious_page_layout:
   - default_layout
+parent: robot-wars
 ---
 <img class="  wp-image-1125 alignright" src="http://potterieshackspace.org/wp-content/uploads/2015/04/path2998.png" alt="path2998" width="170" height="178" />
 
