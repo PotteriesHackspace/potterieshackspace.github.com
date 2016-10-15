@@ -5684,6 +5684,11 @@ label, .control-label, .help-block, .checkbox, .radio {
 @media screen and (max-width: 480px) {
   .left-syms li a span {
     display: block; } }
+/* Images */
+.tiled-gallery .gallery-group {
+  float: left;
+  position: relative; }
+
 .pln {
   color: #000; }
 

@@ -4,7 +4,7 @@ name: Potteries Hackspace
 description: 'Let&#039;s make something!'
 email: admin@potterieshackspace.org
 favicon: /favicon.png
-feedburner_username:
+feedburner_username: PotteriesHackspace
 twitter_username: potterieshacks
 github_username:  PotteriesHackspace
 google_analytics_id: UA-37712920-1
@@ -25,3 +25,27 @@ authors:
     linkedin: jpswade
     twitter: jpswade
     github: jpswade
+social:
+  - title: Discussion Group
+    url: http://groups.google.com/group/potteries-hackspace
+  - title: Facebook Group
+    url: https://www.facebook.com/groups/472345606113810/
+  - title: LinkedIn Group
+    url: https://www.linkedin.com/groups/PotteriesHackspace-4759759
+  - title: GitHub Team
+    url: https://github.com/PotteriesHackspace/
+  - title: Twitter
+    url: http://www.twitter.com/potterieshacks
+  - title: Calendar
+    url: https://www.google.com/calendar/embed?src=00nfs1crll5qrehok98qmmitlc%40group.calendar.google.com&ctz=Europe/London
+  - title: YouTube
+    url: https://www.youtube.com/user/potterieshackspace
+  - title: IRC
+    url: irc://chat.freenode.net/potterieshackspace
+donate:
+  - title: via GoCardless
+    url: https://dashboard.gocardless.com/api/paylinks/0P4J6WTM08
+  - title: via CoinBase
+    url: https://coinbase.com/checkouts/f7febf3521750f7b11d510c231970b17
+  - title: via PayPal
+    url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N46U9V699JA9S

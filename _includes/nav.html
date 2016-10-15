@@ -13,7 +13,9 @@
     {% assign filename = node_url_parts | last %}
     {% if node_url_parts_size == 2 %}
     {% unless filename contains '.xml' %}
+    {% unless filename contains 'page' %}
     <li><a class="{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a></li>
+    {% endunless %}
     {% endunless %}
     {% endif %}
     {% endfor %}
