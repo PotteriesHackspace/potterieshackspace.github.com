@@ -14,8 +14,8 @@ index: true
                 and page.comments != false and site.disqus_show_comment_count == true %}
                 <a href="{% if page.index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
                 {% endif %}</p>
-            {% if post.content contains '<!-- more -->' %}
-            <p>{{ post.content | split:'<!-- more -->' | first }}
+            {% if post.content contains '<!--more-->' %}
+            <p>{{ post.content | split:'<!--more-->' | first }}
                 <br><br>
                 <a href="{{ post.url }}" class="btn btn-primary btn-sm">Read More</a>
             </p>
