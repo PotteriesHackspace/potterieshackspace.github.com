@@ -35,7 +35,7 @@ I guess they were afraid we might just win. Not to worry!
 
 We have entered into the ["Stoke-on-Trent Soapbox Derby"](https://www.facebook.com/events/859068430862950/).
 
-It'll be on 4th June at 11am onwards at Hanley Park, Cleveland Road, Stoke-on-Trent, ST1 4DX.
+It'll be on 4th June at 11am onwards at [Hanley Park, Cleveland Road, Stoke-on-Trent, ST1 4DX](http://w3w.co/makes.cups.pace).
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/AT4NW"><a href="//imgur.com/AT4NW"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
