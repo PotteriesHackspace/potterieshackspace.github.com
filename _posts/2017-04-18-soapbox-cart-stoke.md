@@ -21,15 +21,15 @@ We entered our cart, "Kiln’ it" into the [Redbull Soapbox Race](http://www.red
 
 Redbull asked us, in 100 words or less, why should they pick us? How will we bring the design to life on the course? Our answer:
 
-    We’re a bunch of hackers from the Potteries, Stoke-on-Trent. We’ve got creativity in our blood. Not only does this pose the engineering challenge of being the fastest down the course, we recognise the challenge to strive to make it the most ridiculous looking thing you’ve ever seen travelling down a hill. We think we’ve nailed that with our ‘Killer Kiln’. Meet Kiln’ it…
+> We’re a bunch of hackers from the Potteries, Stoke-on-Trent. We’ve got creativity in our blood. Not only does this pose the engineering challenge of being the fastest down the course, we recognise the challenge to strive to make it the most ridiculous looking thing you’ve ever seen travelling down a hill. We think we’ve nailed that with our ‘Killer Kiln’. Meet Kiln’ it…
 
 When they asked what materials we used, we said:
 
-    Plywood, bike parts, steel; blood sweat and tears.
+> Plywood, bike parts, steel; blood sweat and tears.
     
 Unfortunately, we didn't quite make it in the running this year, they said:
     
-    We went searching for white-knuckle drivers and we found them, by the thousand. The standard this year was higher than it has ever been and we’re sorry to say that you just missed the cut. There was very little to separate the wacky racers and our scrutineers had some of the toughest decisions we’ve ever had to make here at Red Bull Soapbox Race Control. We want to thank you for the time and effort you put into your application and we hope that you will try again next time! 
+> We went searching for white-knuckle drivers and we found them, by the thousand. The standard this year was higher than it has ever been and we’re sorry to say that you just missed the cut. There was very little to separate the wacky racers and our scrutineers had some of the toughest decisions we’ve ever had to make here at Red Bull Soapbox Race Control. We want to thank you for the time and effort you put into your application and we hope that you will try again next time! 
 
 I guess they were afraid we might just win. Not to worry!
 
