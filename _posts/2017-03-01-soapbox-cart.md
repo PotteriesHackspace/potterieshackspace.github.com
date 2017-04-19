@@ -12,6 +12,7 @@ categories:
 tags:
   - soapbox
   - project
+  - event
 ---
 
 We've signed up to the ["Stoke-on-Trent Soapbox Derby"](https://www.facebook.com/events/859068430862950/).
