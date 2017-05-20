@@ -11,7 +11,7 @@ image: /wp-content/uploads/2013/02/dsc_0222.jpg
 ---
 We've got a range of equipment, tools and machinery.
 
-* Tools
+* [Tools](/equipment/tools)
 * [3D printer](/equipment/3d-printer)
 * CNC Milling Machine
 * 2D Plotter
@@ -25,6 +25,10 @@ We've got a range of equipment, tools and machinery.
 
 That's not all. New equipment is arriving all the time.
 
+## We need your equipment. Can you help?
+
 We're always on the look out for more equipment and tools so if you have or can acquire stuff that you think we might need or know someone who can, we'd love to hear from you.
 
-We hope that by sharing what you have with the community it will open up access to other tools you may need for your projects all under one roof.
+We hope that by sharing what you have it will open up access to other tools you may need for your projects all under one roof.
+
+Please let us know by either adding a comment to the post or [contact the group](http://groups.google.com/group/potteries-hackspace).
