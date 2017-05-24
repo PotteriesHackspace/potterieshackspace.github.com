@@ -18,7 +18,9 @@ tags:
 
 Whether you have something that needs fixing or can volunteer to help, come down!
 
-You are looking at the regions first repair cafe! You've asked for it and we have responded. Teaming up with Potteries hack space we are proud to bring you our first Repair Cafe. Bring your broken, electronic items, toys, devices and anything that will challenge our team of super hackers and elctronic wizards. Note, this isn't a drop off facility, this to give advice and help you fix your gear.
+You are looking at the regions first repair cafe! You've asked for it and we have responded.
+
+Wavemaker are teaming up with Potteries hack space we are proud to bring you our first Repair Cafe. Bring your broken, electronic items, toys, devices and anything that will challenge our team of super hackers and electronic wizards. Note, this isn't a drop off facility, this to give advice and help you fix your gear.
 
 The event is FREE and is kid friendly! Woop woop! So come and have a coffee and a mingle.
 
