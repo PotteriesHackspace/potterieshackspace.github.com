@@ -13,27 +13,23 @@ image: /wp-content/uploads/2014/09/EMFCamp-DSC_2582.jpg
 
 Our open evening is every **Tuesday from 7PM** at our hackspace.
 
-## **Inter HackSpace Robot Wars**
-
-We hosted the first [Inter HackSpace Robot Wars](http://potterieshackspace.org/events/robot-wars/), **1 August 2015**, and are thinking ahead towards the next event of this kind!
-
 ## Events Calendar
 
 Check out our calendar for upcoming events that you can get involved in&#8230;
 
-## Past Events, Hosted and Attended
+## Past Events
 
-We&#8217;ve been along to and hosted a number of events including:
+We've been along to and hosted a number of events including:
 
-  * [Inter HackSpace Robot Wars 2015](/events/robot-wars/inter-hackspace-robot-wars-2015/)
-  * Stoke-con-Trent
-  * WaveMaker Taster Day
-  * Raspberry Jams
-  * Restart Party
-  * Maker Faires
-  * Hackathons
   * EMF Camp
-  * [Repair Cafe](/events/repair-cafe)
+  * [Inter HackSpace Robot Wars](/events/robot-wars)
+  * [Stoke-con-Trent Comic Con](/events/comic-con)
+  * [WaveMaker Taster Day](/events/wavemaker)
+  * [Raspberry Jams](/events/raspberry-jam)
+  * [Maker Faires](/events/maker-faire)
+  * [Hackathons](/events/hackerthons)
+  * [Make Shift Do](/events/makeshiftdo)
+  * [Repair Cafe](/events/repair-cafe) Restart Party
   * [Soapbox Derby](/events/soapbox)
 
 Also see our [posts with the &#8216;event&#8217; tag](http://potterieshackspace.org/tag/event/)&#8230;
