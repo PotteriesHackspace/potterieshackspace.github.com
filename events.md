@@ -13,8 +13,6 @@ image: /wp-content/uploads/2014/09/EMFCamp-DSC_2582.jpg
 
 Our open evening is every **Tuesday from 7PM** at our hackspace.
 
-_Higherland Garage (Formerly Randles), Higherland, Newcastle-under-Lyme, Staffordshire, ST5 2HN_
-
 ## **Inter HackSpace Robot Wars**
 
 We hosted the first [Inter HackSpace Robot Wars](http://potterieshackspace.org/events/robot-wars/), **1 August 2015**, and are thinking ahead towards the next event of this kind!
@@ -23,13 +21,11 @@ We hosted the first [Inter HackSpace Robot Wars](http://potterieshackspace.org/e
 
 Check out our calendar for upcoming events that you can get involved in&#8230;
 
-
-
 ## Past Events, Hosted and Attended
 
 We&#8217;ve been along to and hosted a number of events including:
 
-  * [Inter HackSpace Robot Wars 2015](http://potterieshackspace.org/events/robot-wars/inter-hackspace-robot-wars-2015/)
+  * [Inter HackSpace Robot Wars 2015](/events/robot-wars/inter-hackspace-robot-wars-2015/)
   * Stoke-con-Trent
   * WaveMaker Taster Day
   * Raspberry Jams
@@ -37,6 +33,8 @@ We&#8217;ve been along to and hosted a number of events including:
   * Maker Faires
   * Hackathons
   * EMF Camp
+  * [Repair Cafe](/events/repair-cafe)
+  * [Soapbox Derby](/events/soapbox)
 
 Also see our [posts with the &#8216;event&#8217; tag](http://potterieshackspace.org/tag/event/)&#8230;
 

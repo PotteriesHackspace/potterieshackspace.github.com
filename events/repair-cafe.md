@@ -1,3 +1,11 @@
+---
+title: Repair Cafe
+date: 2017-06-04
+author: James Wade
+layout: page
+image: http://i.imgur.com/wFAOLv0.png
+parent: events
+---
 Whether you have something that needs fixing or can volunteer to help repair cafe is for you.
 
 We were park of our regions first repair cafe! You've asked for it and we responded.
