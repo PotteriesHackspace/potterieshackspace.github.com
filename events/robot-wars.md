@@ -18,10 +18,8 @@ parent: events
 
 We hosted the first **Inter HackSpace Robot Wars** at the Potteries HackSpace, **Saturday 1 August 2015** &#8211; representatives from five UK hackspaces attended and were joined by a small audience for a day of robots-clashing, makers-chatting, food, drinks, and fun&#8230; More details and documentation on the [Inter HackSpace Robot Wars 2015 event page](http://potterieshackspace.org/events/robot-wars/inter-hackspace-robot-wars-2015/).
 
-## 2016
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3jQ2oTZrerY" frameborder="0" allowfullscreen></iframe>
+
+## Next...
 
 The next one will be bigger and better &#8211; not least because everyone will have more time to prepare for it! Get building and check back here soon for more details!
-
-&nbsp;
-
-&nbsp;
