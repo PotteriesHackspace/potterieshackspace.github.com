@@ -10,7 +10,7 @@ index: true
         <div class="blog-post-small">
             {% for post in paginator.posts %}
             <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
-            <p><i class="fa fa-calendar"></i> &nbsp;{{ post.date | date: "%b %-d, %Y" }} | {% if site.disqus_short_name
+            <p><i class="fa fa-calendar"></i> &nbsp;{{ post.date | date: "%b %-d, %Y" }} | {% if site.disqus_short_name %}
                 and page.comments != false and site.disqus_show_comment_count == true %}
                 <a href="{% if page.index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
                 {% endif %}</p>
