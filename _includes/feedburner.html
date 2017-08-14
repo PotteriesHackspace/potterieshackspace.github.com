@@ -5,7 +5,7 @@
               onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri={{site.feedburner_username}}', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
             <div class="input-group">
                 <input type="text" class="form-control" name="email"/>
-                <input type="hidden" value="maangalabs" name="uri"/>
+                <input type="hidden" value="{{site.feedburner_username}}" name="uri"/>
                 <input type="hidden" name="loc" value="en_US"/>
                         <span class="input-group-btn">
                           <input type="submit" class="btn btn-primary" value="Subscribe Us"/>
