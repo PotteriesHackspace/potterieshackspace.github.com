@@ -25,4 +25,4 @@ gem "github-pages", group: :jekyll_plugins
 #end
 
 # Downgrade nokogiri.
-gem 'nokogiri', '~> 1.6.8'
+#gem 'nokogiri', '~> 1.6.8'
