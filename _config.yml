@@ -6,13 +6,13 @@ email: admin@potterieshackspace.org
 favicon: /favicon.png
 feedburner_username: PotteriesHackspace
 twitter_username: potterieshacks
-github_username:  PotteriesHackspace
+github_username: PotteriesHackspace
 google_analytics_id: UA-37712920-1
 gplus_username: PotteriesHackspace
 fb_username: potterieshackspace
 permalink: /blog/:year/:month/:day/:title
 markdown: kramdown
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 paginate: 5
 paginate_path: "page:num"
 disqus_short_name: potterieshackspace
