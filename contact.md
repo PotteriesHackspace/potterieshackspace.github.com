@@ -22,11 +22,17 @@ We’d love to get to know you, so the easiest way to get started is by introduc
 
 Our &#8216;Open Evening&#8217; is every Tuesday from 7PM for anyone to attend.
 
-[50 Broad St, Hanley, Stoke on Trent, ST1 4EU](https://map.what3words.com/tribe.rested.stones).
-
-&nbsp;
+* [50 Broad St, Hanley, Stoke on Trent, ST1 4EU](https://map.what3words.com/tribe.rested.stones).
 
 Please check [our calendar](https://www.google.com/calendar/embed?src=00nfs1crll5qrehok98qmmitlc%40group.calendar.google.com&ctz=Europe/London) for other events we&#8217;re involved in.
+
+If you're coming to join us, you might want to give us a call.
+
+You can reach us on:
+
+* <a href="tel:01782 692995">01782 692995</a>
+
+<small>Please note: This number is only operated while we're on-site.</small>
 
 **Get social**
 
