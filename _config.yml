@@ -49,3 +49,6 @@ donate:
     url: https://coinbase.com/checkouts/f7febf3521750f7b11d510c231970b17
   - title: via PayPal
     url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=N46U9V699JA9S
+location:
+  - address: 50 Broad St, Hanley, Stoke on Trent, ST1 4EU
+    url: https://map.what3words.com/tribe.rested.stones
