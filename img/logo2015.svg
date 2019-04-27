@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="svg2" version="1.1" viewBox="238.7030029296875 87.36199951171875 231.55599975585938 385.24700927734375" xmlns="http://www.w3.org/2000/svg">
+  <g id="layer1">
+    <text style="font-size: 40.2228px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; line-height: 80%; letter-spacing: 0px; word-spacing: 0px; fill: rgb(61, 61, 61); fill-opacity: 1; stroke: none; font-family: Verdana; white-space: pre;" x="353.42471" y="423.51016" id="text2996"><tspan id="tspan2998" x="353.42471" y="423.51016" style="font-size:48.26740265px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia Bold">Potteries</tspan><tspan x="353.42471" y="462.12408" id="tspan3000" style="font-size:48.26740265px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:80.00000119%;text-anchor:middle;fill:#3d3d3d;fill-opacity:1;font-family:Georgia;-inkscape-font-specification:Georgia">Hackspace</tspan></text>
+    <path style="fill:#3d3d3d;fill-opacity:1;stroke:none" d="m 248.16974,379.9833 c -8.37975,-146.14296 14.83913,-134.41131 70.81591,-236.30915 l 0,-56.31197 69.38439,0 0,55.3064 c 57.80184,101.84209 81.88887,88.17384 72.98071,237.31472 z" id="path3012"/>
+    <circle cx="57" cy="57" r="57" id="circle236" style="fill:#ed1c24;fill-opacity:1" transform="matrix(1.3936859,0,0,1.3936859,275.32015,204.00839)"/>
+    <g id="g238" transform="matrix(1.3936859,0,0,1.3936859,275.32015,204.00839)">
+      <path style="fill:#ffffff" d="M 57,98.501 43.999,85.5 46.217,83.282 30.717,67.781 28.499,70 15.498,57 34.987,37.51 l 13.002,13 -4.234,4.235 2.66,2.661 10.992,-10.993 -2.66,-2.66 -4.089,4.089 L 37.656,34.841 57,15.497 70.001,28.498 67.784,30.716 83.282,46.216 85.501,43.998 98.503,57 79.159,76.343 66.157,63.342 70.246,59.253 68.083,57.09 57.091,68.083 59.253,70.245 63.487,66.011 76.49,79.014 57,98.501 z" id="path240"/>
+    </g>
+  </g>
+</svg>
