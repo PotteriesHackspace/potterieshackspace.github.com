@@ -4,7 +4,7 @@ title: Hitachi Power Tool Donations
 date: 2015-06-28T13:56:06+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=1198
+guid: /?p=1198
 permalink: /2015/06/28/hitachi-power-tool-donations/
 spacious_page_layout:
   - default_layout
@@ -42,4 +42,4 @@ If you&#8217;re able to donate any tools or equipment, or know anyone who might,
 
 All the best.
 
-[<img class="alignnone size-medium wp-image-1201" src="http://potterieshackspace.org/wp-content/uploads/2015/06/2015-06-13-13.22.06-225x300.jpg" alt="2015-06-13 13.22.06" width="225" height="300" srcset="http://potterieshackspace.org/wp-content/uploads/2015/06/2015-06-13-13.22.06-225x300.jpg 225w, http://potterieshackspace.org/wp-content/uploads/2015/06/2015-06-13-13.22.06-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](http://potterieshackspace.org/wp-content/uploads/2015/06/2015-06-13-13.22.06.jpg) [<img class="alignnone size-medium wp-image-1202" src="http://potterieshackspace.org/wp-content/uploads/2015/06/2015-06-13-13.22.17-225x300.jpg" alt="2015-06-13 13.22.17" width="225" height="300" srcset="http://potterieshackspace.org/wp-content/uploads/2015/06/2015-06-13-13.22.17-225x300.jpg 225w, http://potterieshackspace.org/wp-content/uploads/2015/06/2015-06-13-13.22.17-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](http://potterieshackspace.org/wp-content/uploads/2015/06/2015-06-13-13.22.17.jpg)
+[<img class="alignnone size-medium wp-image-1201" src="/wp-content/uploads/2015/06/2015-06-13-13.22.06-225x300.jpg" alt="2015-06-13 13.22.06" width="225" height="300" srcset="/wp-content/uploads/2015/06/2015-06-13-13.22.06-225x300.jpg 225w, /wp-content/uploads/2015/06/2015-06-13-13.22.06-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](/wp-content/uploads/2015/06/2015-06-13-13.22.06.jpg) [<img class="alignnone size-medium wp-image-1202" src="/wp-content/uploads/2015/06/2015-06-13-13.22.17-225x300.jpg" alt="2015-06-13 13.22.17" width="225" height="300" srcset="/wp-content/uploads/2015/06/2015-06-13-13.22.17-225x300.jpg 225w, /wp-content/uploads/2015/06/2015-06-13-13.22.17-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](/wp-content/uploads/2015/06/2015-06-13-13.22.17.jpg)

@@ -4,7 +4,7 @@ title: Lost in Space?
 date: 2014-09-11T10:07:15+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=657
+guid: /?p=657
 permalink: /2014/09/11/lost-in-space/
 spacious_page_layout:
   - default_layout

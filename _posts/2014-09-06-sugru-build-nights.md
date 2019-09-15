@@ -4,7 +4,7 @@ title: Sugru Build Nights
 date: 2014-09-06T16:32:44+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=652
+guid: /?p=652
 permalink: /2014/09/06/sugru-build-nights/
 spacious_page_layout:
   - default_layout

@@ -4,7 +4,7 @@ title: Make:Shift:Do Potteries
 date: 2015-09-10T10:00:10+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=1258
+guid: /?p=1258
 permalink: /2015/09/10/makeshiftdo-potteries/
 spacious_page_layout:
   - default_layout
@@ -18,7 +18,7 @@ tags:
 ---
 **Make:Shift:Do 2015: a festival celebrating digital innovation in craft.**
 
-The [Make:Shift:Do](http://potterieshackspace.org/events/makeshiftdo/) event is an opportunity for everyone to try their hand at a new craft for the digital age.
+The [Make:Shift:Do](/events/makeshiftdo/) event is an opportunity for everyone to try their hand at a new craft for the digital age.
 
 Organised by the Crafts Council, in partnership with the V&A, The Royal Society of Arts and the Institute of Making at University College London, the programme will see ‘Make Spaces’ across the UK open their doors to the public for free workshops, events and activities.
 

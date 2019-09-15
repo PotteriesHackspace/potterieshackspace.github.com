@@ -4,7 +4,7 @@ title: How to become a hackspace member
 date: 2014-09-04T09:04:48+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=484
+guid: /?p=484
 permalink: /2014/09/04/how-to-become-a-hackspace-member/
 spacious_page_layout:
   - default_layout

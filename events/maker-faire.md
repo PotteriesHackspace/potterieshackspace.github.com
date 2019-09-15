@@ -4,7 +4,7 @@ title: Maker Faire
 date: 2015-04-27T19:37:54+00:00
 author: James Wade
 layout: page
-guid: http://potterieshackspace.org/?page_id=1173
+guid: /?page_id=1173
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2014/09/Maker-Faire-UK-Crowd-Scene1.jpg

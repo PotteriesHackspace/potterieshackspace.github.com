@@ -16,7 +16,7 @@ tags:
   - competition
   - raspberry pi
 ---
-[<img class="alignnone size-large wp-image-359" alt="Raspberry Pi Users" src="http://potterieshackspace.org/wp-content/uploads/2013/10/3_raspberrypi-svg.png?w=584" width="584" height="825" srcset="http://potterieshackspace.org/wp-content/uploads/2013/10/3_raspberrypi-svg.png 744w, http://potterieshackspace.org/wp-content/uploads/2013/10/3_raspberrypi-svg-212x300.png 212w, http://potterieshackspace.org/wp-content/uploads/2013/10/3_raspberrypi-svg-724x1024.png 724w" sizes="(max-width: 584px) 100vw, 584px" />](http://potterieshackspace.org/wp-content/uploads/2013/10/3_raspberrypi-svg.png)
+[<img class="alignnone size-large wp-image-359" alt="Raspberry Pi Users" src="/wp-content/uploads/2013/10/3_raspberrypi-svg.png?w=584" width="584" height="825" srcset="/wp-content/uploads/2013/10/3_raspberrypi-svg.png 744w, /wp-content/uploads/2013/10/3_raspberrypi-svg-212x300.png 212w, /wp-content/uploads/2013/10/3_raspberrypi-svg-724x1024.png 724w" sizes="(max-width: 584px) 100vw, 584px" />](/wp-content/uploads/2013/10/3_raspberrypi-svg.png)
 
 **Are you ready?**
 

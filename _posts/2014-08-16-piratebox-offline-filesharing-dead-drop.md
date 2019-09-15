@@ -4,7 +4,7 @@ title: PirateBox Offline FileSharing Dead Drop
 date: 2014-08-16T10:29:43+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=459
+guid: /?p=459
 permalink: /2014/08/16/piratebox-offline-filesharing-dead-drop/
 spacious_page_layout:
   - default_layout
@@ -37,7 +37,7 @@ The official PirateBox website has instructions on [how to install PirateBox 1.0
 
 Below are some instructions that may help you with some snags along the way&#8230;
 
-[<img class="size-medium wp-image-462 alignright" src="http://potterieshackspace.org/wp-content/uploads/2014/08/2013-03-18-20.54.05-225x300.jpg" alt="2013-03-18 20.54.05" width="225" height="300" srcset="http://potterieshackspace.org/wp-content/uploads/2014/08/2013-03-18-20.54.05-225x300.jpg 225w, http://potterieshackspace.org/wp-content/uploads/2014/08/2013-03-18-20.54.05-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](http://potterieshackspace.org/wp-content/uploads/2014/08/2013-03-18-20.54.05.jpg)
+[<img class="size-medium wp-image-462 alignright" src="/wp-content/uploads/2014/08/2013-03-18-20.54.05-225x300.jpg" alt="2013-03-18 20.54.05" width="225" height="300" srcset="/wp-content/uploads/2014/08/2013-03-18-20.54.05-225x300.jpg 225w, /wp-content/uploads/2014/08/2013-03-18-20.54.05-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](/wp-content/uploads/2014/08/2013-03-18-20.54.05.jpg)
 
 **Prerequisites**
 
@@ -92,7 +92,7 @@ If you followed these instructions closely, then it&#8217;s likely that you did 
 
 **Add a serial port**
 
-[<img class="size-medium wp-image-477 alignright" src="http://potterieshackspace.org/wp-content/uploads/2014/08/2014-08-16-11.11.00-300x225.jpg" alt="2014-08-16 11.11.00" width="300" height="225" srcset="http://potterieshackspace.org/wp-content/uploads/2014/08/2014-08-16-11.11.00-300x225.jpg 300w, http://potterieshackspace.org/wp-content/uploads/2014/08/2014-08-16-11.11.00-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://potterieshackspace.org/wp-content/uploads/2014/08/2014-08-16-11.11.00.jpg)
+[<img class="size-medium wp-image-477 alignright" src="/wp-content/uploads/2014/08/2014-08-16-11.11.00-300x225.jpg" alt="2014-08-16 11.11.00" width="300" height="225" srcset="/wp-content/uploads/2014/08/2014-08-16-11.11.00-300x225.jpg 300w, /wp-content/uploads/2014/08/2014-08-16-11.11.00-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2014/08/2014-08-16-11.11.00.jpg)
 
 With the help of the guys down at the hackspace and a few bits off eBay (such as a USB to RS232 TTL PL2303HX Converter Module) I managed to follow the instructables instructions on [how to add a serial port to a TL-WR703N](http://www.instructables.com/id/TL-WR703N-serial-port/?ALLSTEPS) in order to unbrick the device and access it via a serial port.
 
@@ -112,7 +112,7 @@ If you&#8217;ve followed the instructions correctly then you should see an SSID 
 
 There&#8217;s a 16GB memory stick in there which you&#8217;re welcome to use via the wifi access.
 
-[<img class="size-medium wp-image-465 alignright" src="http://potterieshackspace.org/wp-content/uploads/2014/08/2014-07-08-21.30.07-300x225.jpg" alt="2014-07-08 21.30.07" width="300" height="225" srcset="http://potterieshackspace.org/wp-content/uploads/2014/08/2014-07-08-21.30.07-300x225.jpg 300w, http://potterieshackspace.org/wp-content/uploads/2014/08/2014-07-08-21.30.07-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://potterieshackspace.org/wp-content/uploads/2014/08/2014-07-08-21.30.07.jpg)
+[<img class="size-medium wp-image-465 alignright" src="/wp-content/uploads/2014/08/2014-07-08-21.30.07-300x225.jpg" alt="2014-07-08 21.30.07" width="300" height="225" srcset="/wp-content/uploads/2014/08/2014-07-08-21.30.07-300x225.jpg 300w, /wp-content/uploads/2014/08/2014-07-08-21.30.07-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](/wp-content/uploads/2014/08/2014-07-08-21.30.07.jpg)
 
 **Useful Resources**
 

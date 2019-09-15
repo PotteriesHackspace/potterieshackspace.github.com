@@ -4,7 +4,7 @@ title: Make:Shift:Done
 date: 2015-11-03T17:07:14+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=1307
+guid: /?p=1307
 permalink: /2015/11/03/makeshiftdone/
 spacious_page_layout:
   - default_layout
@@ -20,7 +20,7 @@ Organised by the Crafts Council, in partnership with the V&A, The Royal Society 
 
 The day was a resounding success with a great turnout from our members and lots of activity.
 
-[Our event](http://potterieshackspace.org/events/makeshiftdo/makeshiftdo-2015/) really did represent everything that you&#8217;d expect from a Make:Shift:Do event.
+[Our event](/events/makeshiftdo/makeshiftdo-2015/) really did represent everything that you&#8217;d expect from a Make:Shift:Do event.
 
 I can&#8217;t thank you all enough for making it a great day and really pulling out all the stops to make it happen.
 

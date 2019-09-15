@@ -4,7 +4,7 @@ title: The Search is on for a New Space
 date: 2015-10-02T13:22:44+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=1277
+guid: /?p=1277
 permalink: /2015/10/02/the-search-is-on-for-a-new-space/
 spacious_page_layout:
   - default_layout

@@ -4,7 +4,7 @@ title: New Membership Fee Rules
 date: 2015-12-08T10:00:42+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=1336
+guid: /?p=1336
 permalink: /2015/12/08/new-membership-fee-rules/
 spacious_page_layout:
   - default_layout
@@ -16,7 +16,7 @@ tags:
   - hackspace
   - news
 ---
-In light of our on going efforts to [find a new space](http://potterieshackspace.org/2015/10/02/the-search-is-on-for-a-new-space/), a new decision has been made by the group to introduce new membership fees:
+In light of our on going efforts to [find a new space](/2015/10/02/the-search-is-on-for-a-new-space/), a new decision has been made by the group to introduce new membership fees:
 
 > The rules for membership fees are as follows:
 > 

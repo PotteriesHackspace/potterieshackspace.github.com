@@ -4,7 +4,7 @@ title: Inter HackSpace Robot Wars 2015 Event Roundup
 date: 2015-08-05T10:00:52+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=1225
+guid: /?p=1225
 permalink: /2015/08/05/inter-hackspace-robot-wars-2015-event-roundup/
 spacious_page_layout:
   - default_layout

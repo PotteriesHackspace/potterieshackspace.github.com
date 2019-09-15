@@ -4,7 +4,7 @@ title: Make:Shift:Do 2015
 date: 2015-11-03T16:44:11+00:00
 author: sdf
 layout: page
-guid: http://potterieshackspace.org/?page_id=1312
+guid: /?page_id=1312
 spacious_page_layout:
   - default_layout
 parent: makeshiftdo

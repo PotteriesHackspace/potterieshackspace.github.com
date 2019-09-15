@@ -55,7 +55,7 @@ The idea was to automate a greenhouse, turning on or off various switches for wa
 
 Unfortunately the screen wouldn&#8217;t turn on and we struggled to get the relay to switch on or off until after the demo.
 
-[<img alt="DSC_1748" src="http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1748.jpg?w=584" width="584" height="872" />](http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1748.jpg)
+[<img alt="DSC_1748" src="/wp-content/uploads/2013/10/dsc_1748.jpg?w=584" width="584" height="872" />](/wp-content/uploads/2013/10/dsc_1748.jpg)
 
 In third place was the &#8220;MusicBox&#8221;. A system that booted up to load the Music Player Daemon (MPD), stream the playlist over Icecast and download new tracks released under the Creative Commons License, for commercial use from ccmixter using a scraper written in Python. The MPD allows you to remotely control it from your mobile phone or PC too.
 
@@ -63,7 +63,7 @@ The idea of the project is to circumvent license fees charged by companies such 
 
 Given more time the project would have a voting system allowing you to easily drop the tracks you don&#8217;t like and replay the tracks you do more often. Giving you more control over what is played.
 
-[<img class="alignnone size-large wp-image-379" alt="DSC_1743" src="http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1743.jpg?w=584" width="584" height="390" srcset="http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1743.jpg 3872w, http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1743-300x200.jpg 300w, http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1743-1024x685.jpg 1024w" sizes="(max-width: 584px) 100vw, 584px" />](http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1743.jpg)
+[<img class="alignnone size-large wp-image-379" alt="DSC_1743" src="/wp-content/uploads/2013/10/dsc_1743.jpg?w=584" width="584" height="390" srcset="/wp-content/uploads/2013/10/dsc_1743.jpg 3872w, /wp-content/uploads/2013/10/dsc_1743-300x200.jpg 300w, /wp-content/uploads/2013/10/dsc_1743-1024x685.jpg 1024w" sizes="(max-width: 584px) 100vw, 584px" />](/wp-content/uploads/2013/10/dsc_1743.jpg)
 
 In second place, John had decommissioned his ferret web server to replace it with something a little more entertaining.
 
@@ -75,7 +75,7 @@ All in all, it was lots of fun and probably because it was overclocked slightly 
 
 Impressive.
 
-[<img alt="DSC_1744" src="http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1744.jpg?w=584" width="584" height="390" />](http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1744.jpg)
+[<img alt="DSC_1744" src="/wp-content/uploads/2013/10/dsc_1744.jpg?w=584" width="584" height="390" />](/wp-content/uploads/2013/10/dsc_1744.jpg)
 
 In first place was &#8220;The Beast&#8221;.
 
@@ -89,20 +89,20 @@ For effort alone, this thing wins hands down, but the fun factor really gave it 
 
 Well done guys!
 
-[<img alt="DSC_1746" src="http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1746.jpg?w=584" width="584" height="390" />](http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1746.jpg)
+[<img alt="DSC_1746" src="/wp-content/uploads/2013/10/dsc_1746.jpg?w=584" width="584" height="390" />](/wp-content/uploads/2013/10/dsc_1746.jpg)
 
 **Thanks again!**
 
 Thanks again to everyone that came down, especially the judges who took the time out of their business schedules and called in favours to make it down to our first ever competition.
 
-[<img alt="DSC_1750" src="http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1750.jpg?w=584" width="584" height="390" />](http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1750.jpg)
+[<img alt="DSC_1750" src="/wp-content/uploads/2013/10/dsc_1750.jpg?w=584" width="584" height="390" />](/wp-content/uploads/2013/10/dsc_1750.jpg)
 
 Before the evening was over, we even managed to get Dave&#8217;s relay system up and running.
 
-[<img class="alignnone size-large wp-image-392" alt="DSC_1756" src="http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1756.jpg?w=584" width="584" height="390" />](http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1756.jpg)
+[<img class="alignnone size-large wp-image-392" alt="DSC_1756" src="/wp-content/uploads/2013/10/dsc_1756.jpg?w=584" width="584" height="390" />](/wp-content/uploads/2013/10/dsc_1756.jpg)
 
 **Next time: Robots**
 
-[<img class="alignnone size-large wp-image-387" alt="DSC_1751" src="http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1751.jpg?w=584" width="584" height="390" />](http://potterieshackspace.org/wp-content/uploads/2013/10/dsc_1751.jpg)
+[<img class="alignnone size-large wp-image-387" alt="DSC_1751" src="/wp-content/uploads/2013/10/dsc_1751.jpg?w=584" width="584" height="390" />](/wp-content/uploads/2013/10/dsc_1751.jpg)
 
 Oh and don&#8217;t forget we&#8217;ll be displaying and demonstrating all of these projects at the [Newcastle-under-Lyme Raspberry Jam event on November 7th](https://nulcraspberryjam1.eventbrite.com/), so get signed up!

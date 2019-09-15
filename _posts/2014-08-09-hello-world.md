@@ -4,7 +4,7 @@ title: Hello world!
 date: 2014-08-09T15:15:13+00:00
 author: admin
 layout: post
-guid: http://potterieshackspace.org/?p=1
+guid: /?p=1
 permalink: /2014/08/09/hello-world/
 spacious_page_layout:
   - default_layout

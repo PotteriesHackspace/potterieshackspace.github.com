@@ -4,7 +4,7 @@ title: Free Open Hack Nights
 date: 2014-08-27T19:55:15+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=482
+guid: /?p=482
 permalink: /2014/08/27/free-open-hack-nights/
 spacious_page_layout:
   - default_layout

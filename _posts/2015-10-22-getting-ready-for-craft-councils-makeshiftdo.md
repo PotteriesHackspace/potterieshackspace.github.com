@@ -4,7 +4,7 @@ title: 'Getting Ready for Craft Council&#8217;s Make:Shift:Do'
 date: 2015-10-22T22:31:08+00:00
 author: sdf
 layout: post
-guid: http://potterieshackspace.org/?p=1296
+guid: /?p=1296
 permalink: /2015/10/22/getting-ready-for-craft-councils-makeshiftdo/
 spacious_page_layout:
   - default_layout
@@ -18,7 +18,7 @@ tags:
 ---
 _In short:_ We make things &#8211; and so can you! Open Doors Day for Make:Shift:Do Saturday 24 October 2015, 11am-4pm, All Welcome&#8230;
 
-<img class="aligncenter wp-image-1297 size-large" src="http://potterieshackspace.org/wp-content/uploads/2015/10/2015-10-15-17.42.28-1024x765.jpg" alt="2015-10-15 17.42.28" width="700" height="523" srcset="http://potterieshackspace.org/wp-content/uploads/2015/10/2015-10-15-17.42.28-1024x765.jpg 1024w, http://potterieshackspace.org/wp-content/uploads/2015/10/2015-10-15-17.42.28-300x224.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />
+<img class="aligncenter wp-image-1297 size-large" src="/wp-content/uploads/2015/10/2015-10-15-17.42.28-1024x765.jpg" alt="2015-10-15 17.42.28" width="700" height="523" srcset="/wp-content/uploads/2015/10/2015-10-15-17.42.28-1024x765.jpg 1024w, /wp-content/uploads/2015/10/2015-10-15-17.42.28-300x224.jpg 300w" sizes="(max-width: 700px) 100vw, 700px" />
 
 <!--more-->
 
@@ -46,13 +46,13 @@ See the gallery of logos:
   <div class="gallery-row" style="width: 750px; height: 115px;" data-original-width="750" data-original-height="115" >
     <div class="gallery-group images-1" style="width: 115px; height: 115px;" data-original-width="115" data-original-height="115" >
       <div class="tiled-gallery-item tiled-gallery-item-small" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="http://potterieshackspace.org/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/craftscouncil_black/" border="0" itemprop="url"> 
+        <a href="/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/craftscouncil_black/" border="0" itemprop="url"> 
         
         <meta itemprop="width" content="111" />
         
         <meta itemprop="height" content="111" />
         
-        <img data-attachment-id="1299" data-orig-file="http://potterieshackspace.org/wp-content/uploads/2015/10/CraftsCouncil_black.jpg" data-orig-size="260,260" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CraftsCouncil_black" data-image-description="" data-medium-file="http://potterieshackspace.org/wp-content/uploads/2015/10/CraftsCouncil_black.jpg" data-large-file="http://potterieshackspace.org/wp-content/uploads/2015/10/CraftsCouncil_black.jpg" src="http://i0.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/CraftsCouncil_black.jpg?resize=111%2C111" width="111" height="111" data-original-width="111" data-original-height="111" itemprop="http://schema.org/image" title="CraftsCouncil_black" alt="CraftsCouncil_black" style="width: 111px; height: 111px;" /> </a>
+        <img data-attachment-id="1299" data-orig-file="/wp-content/uploads/2015/10/CraftsCouncil_black.jpg" data-orig-size="260,260" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="CraftsCouncil_black" data-image-description="" data-medium-file="/wp-content/uploads/2015/10/CraftsCouncil_black.jpg" data-large-file="/wp-content/uploads/2015/10/CraftsCouncil_black.jpg" src="http://i0.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/CraftsCouncil_black.jpg?resize=111%2C111" width="111" height="111" data-original-width="111" data-original-height="111" itemprop="http://schema.org/image" title="CraftsCouncil_black" alt="CraftsCouncil_black" style="width: 111px; height: 111px;" /> </a>
       </div>
     </div>
     
@@ -60,13 +60,13 @@ See the gallery of logos:
     
     <div class="gallery-group images-1" style="width: 635px; height: 115px;" data-original-width="635" data-original-height="115" >
       <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="http://potterieshackspace.org/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/institute-of-making-logo/" border="0" itemprop="url"> 
+        <a href="/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/institute-of-making-logo/" border="0" itemprop="url"> 
         
         <meta itemprop="width" content="631" />
         
         <meta itemprop="height" content="111" />
         
-        <img data-attachment-id="1300" data-orig-file="http://potterieshackspace.org/wp-content/uploads/2015/10/Institute-of-Making-logo.jpg" data-orig-size="799,140" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Institute of Making logo" data-image-description="" data-medium-file="http://potterieshackspace.org/wp-content/uploads/2015/10/Institute-of-Making-logo-300x53.jpg" data-large-file="http://potterieshackspace.org/wp-content/uploads/2015/10/Institute-of-Making-logo.jpg" src="http://i2.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/Institute-of-Making-logo.jpg?resize=631%2C111" width="631" height="111" data-original-width="631" data-original-height="111" itemprop="http://schema.org/image" title="Institute of Making logo" alt="Institute of Making logo" style="width: 631px; height: 111px;" /> </a>
+        <img data-attachment-id="1300" data-orig-file="/wp-content/uploads/2015/10/Institute-of-Making-logo.jpg" data-orig-size="799,140" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Institute of Making logo" data-image-description="" data-medium-file="/wp-content/uploads/2015/10/Institute-of-Making-logo-300x53.jpg" data-large-file="/wp-content/uploads/2015/10/Institute-of-Making-logo.jpg" src="http://i2.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/Institute-of-Making-logo.jpg?resize=631%2C111" width="631" height="111" data-original-width="631" data-original-height="111" itemprop="http://schema.org/image" title="Institute of Making logo" alt="Institute of Making logo" style="width: 631px; height: 111px;" /> </a>
       </div>
     </div>
     
@@ -78,13 +78,13 @@ See the gallery of logos:
   <div class="gallery-row" style="width: 750px; height: 402px;" data-original-width="750" data-original-height="402" >
     <div class="gallery-group images-1" style="width: 402px; height: 402px;" data-original-width="402" data-original-height="402" >
       <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="http://potterieshackspace.org/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/makeshiftdo-2/" border="0" itemprop="url"> 
+        <a href="/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/makeshiftdo-2/" border="0" itemprop="url"> 
         
         <meta itemprop="width" content="398" />
         
         <meta itemprop="height" content="398" />
         
-        <img data-attachment-id="1301" data-orig-file="http://potterieshackspace.org/wp-content/uploads/2015/10/MakeShiftDo.png" data-orig-size="1483,1483" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="MakeShiftDo" data-image-description="" data-medium-file="http://potterieshackspace.org/wp-content/uploads/2015/10/MakeShiftDo-300x300.png" data-large-file="http://potterieshackspace.org/wp-content/uploads/2015/10/MakeShiftDo-1024x1024.png" src="http://i2.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/MakeShiftDo.png?resize=398%2C398" width="398" height="398" data-original-width="398" data-original-height="398" itemprop="http://schema.org/image" title="MakeShiftDo" alt="MakeShiftDo" style="width: 398px; height: 398px;" /> </a>
+        <img data-attachment-id="1301" data-orig-file="/wp-content/uploads/2015/10/MakeShiftDo.png" data-orig-size="1483,1483" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="MakeShiftDo" data-image-description="" data-medium-file="/wp-content/uploads/2015/10/MakeShiftDo-300x300.png" data-large-file="/wp-content/uploads/2015/10/MakeShiftDo-1024x1024.png" src="http://i2.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/MakeShiftDo.png?resize=398%2C398" width="398" height="398" data-original-width="398" data-original-height="398" itemprop="http://schema.org/image" title="MakeShiftDo" alt="MakeShiftDo" style="width: 398px; height: 398px;" /> </a>
       </div>
     </div>
     
@@ -92,23 +92,23 @@ See the gallery of logos:
     
     <div class="gallery-group images-2" style="width: 348px; height: 402px;" data-original-width="348" data-original-height="402" >
       <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="http://potterieshackspace.org/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/ultimakergb-logo/" border="0" itemprop="url"> 
+        <a href="/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/ultimakergb-logo/" border="0" itemprop="url"> 
         
         <meta itemprop="width" content="344" />
         
         <meta itemprop="height" content="187" />
         
-        <img data-attachment-id="1302" data-orig-file="http://potterieshackspace.org/wp-content/uploads/2015/10/UltimakerGB-Logo.jpg" data-orig-size="682,371" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="UltimakerGB-Logo" data-image-description="" data-medium-file="http://potterieshackspace.org/wp-content/uploads/2015/10/UltimakerGB-Logo-300x163.jpg" data-large-file="http://potterieshackspace.org/wp-content/uploads/2015/10/UltimakerGB-Logo.jpg" src="http://i1.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/UltimakerGB-Logo.jpg?resize=344%2C187" width="344" height="187" data-original-width="344" data-original-height="187" itemprop="http://schema.org/image" title="UltimakerGB-Logo" alt="UltimakerGB-Logo" style="width: 344px; height: 187px;" /> </a>
+        <img data-attachment-id="1302" data-orig-file="/wp-content/uploads/2015/10/UltimakerGB-Logo.jpg" data-orig-size="682,371" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="UltimakerGB-Logo" data-image-description="" data-medium-file="/wp-content/uploads/2015/10/UltimakerGB-Logo-300x163.jpg" data-large-file="/wp-content/uploads/2015/10/UltimakerGB-Logo.jpg" src="http://i1.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/UltimakerGB-Logo.jpg?resize=344%2C187" width="344" height="187" data-original-width="344" data-original-height="187" itemprop="http://schema.org/image" title="UltimakerGB-Logo" alt="UltimakerGB-Logo" style="width: 344px; height: 187px;" /> </a>
       </div>
       
       <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="http://potterieshackspace.org/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/valogo/" border="0" itemprop="url"> 
+        <a href="/2015/10/22/getting-ready-for-craft-councils-makeshiftdo/valogo/" border="0" itemprop="url"> 
         
         <meta itemprop="width" content="344" />
         
         <meta itemprop="height" content="207" />
         
-        <img data-attachment-id="1303" data-orig-file="http://potterieshackspace.org/wp-content/uploads/2015/10/VAlogo.jpg" data-orig-size="2107,1266" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="V&#038;Alogo" data-image-description="" data-medium-file="http://potterieshackspace.org/wp-content/uploads/2015/10/VAlogo-300x180.jpg" data-large-file="http://potterieshackspace.org/wp-content/uploads/2015/10/VAlogo-1024x615.jpg" src="http://i2.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/VAlogo.jpg?resize=344%2C207" width="344" height="207" data-original-width="344" data-original-height="207" itemprop="http://schema.org/image" title="V&Alogo" alt="V&Alogo" style="width: 344px; height: 207px;" /> </a>
+        <img data-attachment-id="1303" data-orig-file="/wp-content/uploads/2015/10/VAlogo.jpg" data-orig-size="2107,1266" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="V&#038;Alogo" data-image-description="" data-medium-file="/wp-content/uploads/2015/10/VAlogo-300x180.jpg" data-large-file="/wp-content/uploads/2015/10/VAlogo-1024x615.jpg" src="http://i2.wp.com/potterieshackspace.org/wp-content/uploads/2015/10/VAlogo.jpg?resize=344%2C207" width="344" height="207" data-original-width="344" data-original-height="207" itemprop="http://schema.org/image" title="V&Alogo" alt="V&Alogo" style="width: 344px; height: 207px;" /> </a>
       </div>
     </div>
     

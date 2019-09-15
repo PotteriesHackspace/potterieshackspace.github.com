@@ -4,7 +4,7 @@ title: Contribute
 date: 2015-09-16T21:47:55+00:00
 author: James Wade
 layout: page
-guid: http://potterieshackspace.org/?page_id=1184
+guid: /?page_id=1184
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2013/10/dsc_1751.jpg
@@ -16,7 +16,7 @@ We&#8217;re always on the look out for more way to connect, especially local bus
 
 **Equipment Donations**
 
-See the [donations tag](http://potterieshackspace.org/tag/donations/) in our announcements and updates feed for details of tools and stuff that have been kindly donated&#8230;
+See the [donations tag](/tag/donations/) in our announcements and updates feed for details of tools and stuff that have been kindly donated&#8230;
 
 **Special Thanks**
 

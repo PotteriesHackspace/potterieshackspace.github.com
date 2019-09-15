@@ -4,7 +4,7 @@ title: 'We&#8217;re going to Stoke Comic Con'
 date: 2014-09-05T16:24:55+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=646
+guid: /?p=646
 permalink: /2014/09/05/were-going-to-stoke-comic-con/
 spacious_page_layout:
   - default_layout

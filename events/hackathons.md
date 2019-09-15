@@ -4,7 +4,7 @@ title: Hackathons
 date: 2015-08-03T21:25:17+00:00
 author: James Wade
 layout: page
-guid: http://potterieshackspace.org/?page_id=1231
+guid: /?page_id=1231
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2014/09/Stoke-International-Open-Data-Hackathon-maxresdefault.jpg

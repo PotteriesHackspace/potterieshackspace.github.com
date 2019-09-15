@@ -4,7 +4,7 @@ title: Renew Your Membership
 date: 2016-05-15T10:00:19+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=1369
+guid: /?p=1369
 permalink: /2016/05/15/renew-your-membership/
 spacious_page_layout:
   - default_layout

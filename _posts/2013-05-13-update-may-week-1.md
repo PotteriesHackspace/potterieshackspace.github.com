@@ -21,6 +21,6 @@ I knew a few of our regular members were away including two of our core members 
 
 This should be the exception, not the rule, and we&#8217;ll be back as normal again tomorrow night (Tuesday 14th May).
 
-[<img class="alignnone size-medium wp-image-244" alt="IMG_20130506_154702" src="http://potterieshackspace.org/wp-content/uploads/2013/05/img_20130506_154702.jpg?w=225" width="225" height="300" srcset="http://potterieshackspace.org/wp-content/uploads/2013/05/img_20130506_154702.jpg 2448w, http://potterieshackspace.org/wp-content/uploads/2013/05/img_20130506_154702-225x300.jpg 225w, http://potterieshackspace.org/wp-content/uploads/2013/05/img_20130506_154702-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](http://potterieshackspace.org/wp-content/uploads/2013/05/img_20130506_154702.jpg)
+[<img class="alignnone size-medium wp-image-244" alt="IMG_20130506_154702" src="/wp-content/uploads/2013/05/img_20130506_154702.jpg?w=225" width="225" height="300" srcset="/wp-content/uploads/2013/05/img_20130506_154702.jpg 2448w, /wp-content/uploads/2013/05/img_20130506_154702-225x300.jpg 225w, /wp-content/uploads/2013/05/img_20130506_154702-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](/wp-content/uploads/2013/05/img_20130506_154702.jpg)
 
 Cheers!

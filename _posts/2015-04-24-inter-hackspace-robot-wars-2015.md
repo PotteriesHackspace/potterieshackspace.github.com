@@ -4,7 +4,7 @@ title: Inter HackSpace Robot Wars 2015
 date: 2015-04-24T10:00:35+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=1120
+guid: /?p=1120
 permalink: /2015/04/24/inter-hackspace-robot-wars-2015/
 spacious_page_layout:
   - default_layout

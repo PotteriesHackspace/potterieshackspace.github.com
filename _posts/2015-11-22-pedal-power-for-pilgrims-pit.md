@@ -4,7 +4,7 @@ title: Pedal-power for Pilgrims Pit
 date: 2015-11-22T11:14:42+00:00
 author: sdf
 layout: post
-guid: http://potterieshackspace.org/?p=1329
+guid: /?p=1329
 permalink: /2015/11/22/pedal-power-for-pilgrims-pit/
 spacious_page_layout:
   - default_layout
@@ -24,7 +24,7 @@ With support from [Art City](http://www.artcity.org.uk/), Pilgrims Pit got start
 
 They are working with donations, found materials, and volunteers, and are letting the project grow organically; they&#8217;re also working with video to document their goings on in local area, as found on [their YouTube channel](https://m.youtube.com/channel/UCEfCIhgkReU76zpVoWk4EUw).
 
-<img src="http://potterieshackspace.org/wp-content/uploads/2015/11/image1-300x300.jpeg" alt="image" width="300" height="300" class="aligncenter size-medium wp-image-1333" srcset="http://potterieshackspace.org/wp-content/uploads/2015/11/image1-300x300.jpeg 300w, http://potterieshackspace.org/wp-content/uploads/2015/11/image1-150x150.jpeg 150w, http://potterieshackspace.org/wp-content/uploads/2015/11/image1-270x270.jpeg 270w, http://potterieshackspace.org/wp-content/uploads/2015/11/image1-230x230.jpeg 230w, http://potterieshackspace.org/wp-content/uploads/2015/11/image1.jpeg 960w" sizes="(max-width: 300px) 100vw, 300px" />
+<img src="/wp-content/uploads/2015/11/image1-300x300.jpeg" alt="image" width="300" height="300" class="aligncenter size-medium wp-image-1333" srcset="/wp-content/uploads/2015/11/image1-300x300.jpeg 300w, /wp-content/uploads/2015/11/image1-150x150.jpeg 150w, /wp-content/uploads/2015/11/image1-270x270.jpeg 270w, /wp-content/uploads/2015/11/image1-230x230.jpeg 230w, /wp-content/uploads/2015/11/image1.jpeg 960w" sizes="(max-width: 300px) 100vw, 300px" />
 
 The name includes reference to the [Two Saints Way](http://twosaintsway.org.uk/) &#8211; a 92 mile pilgrimage route which has its halfway point at Stoke upon Trent. The name also includes the words grim, and pit, and the whole things is open to interpretation&#8230;
 

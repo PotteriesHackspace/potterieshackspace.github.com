@@ -4,7 +4,7 @@ title: Raspberry Jam
 date: 2015-04-29T14:12:19+00:00
 author: James Wade
 layout: page
-guid: http://potterieshackspace.org/?page_id=1181
+guid: /?page_id=1181
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2014/09/nul-rjam1-img_40201.jpg

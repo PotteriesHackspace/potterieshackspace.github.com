@@ -45,7 +45,7 @@ categories:
   </p>
   
   <p>
-    <a style="font-style:inherit;line-height:1.625;" href="http://potterieshackspace.org/wp-content/uploads/2013/05/dsc_1299.jpg"><img class="alignnone size-medium wp-image-235" alt="DSC_1299" src="http://potterieshackspace.org/wp-content/uploads/2013/05/dsc_1299.jpg?w=300" width="300" height="200" srcset="http://potterieshackspace.org/wp-content/uploads/2013/05/dsc_1299.jpg 3872w, http://potterieshackspace.org/wp-content/uploads/2013/05/dsc_1299-300x200.jpg 300w, http://potterieshackspace.org/wp-content/uploads/2013/05/dsc_1299-1024x685.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><span style="font-style:inherit;line-height:1.625;"><br /> </span>
+    <a style="font-style:inherit;line-height:1.625;" href="/wp-content/uploads/2013/05/dsc_1299.jpg"><img class="alignnone size-medium wp-image-235" alt="DSC_1299" src="/wp-content/uploads/2013/05/dsc_1299.jpg?w=300" width="300" height="200" srcset="/wp-content/uploads/2013/05/dsc_1299.jpg 3872w, /wp-content/uploads/2013/05/dsc_1299-300x200.jpg 300w, /wp-content/uploads/2013/05/dsc_1299-1024x685.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><span style="font-style:inherit;line-height:1.625;"><br /> </span>
   </p>
   
   <p>

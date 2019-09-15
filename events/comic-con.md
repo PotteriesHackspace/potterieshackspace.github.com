@@ -4,7 +4,7 @@ title: Comic Con
 date: 2015-04-27T19:36:52+00:00
 author: James Wade
 layout: page
-guid: http://potterieshackspace.org/?page_id=1175
+guid: /?page_id=1175
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2015/04/2015-04-19-11.08.46.jpg

@@ -4,7 +4,7 @@ title: Stoke Con Trent 2015
 date: 2015-04-17T10:00:05+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=1073
+guid: /?p=1073
 permalink: /2015/04/17/stoke-con-trent-2015/
 spacious_page_layout:
   - default_layout

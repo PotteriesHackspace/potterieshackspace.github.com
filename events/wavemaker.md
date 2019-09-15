@@ -4,7 +4,7 @@ title: Wavemaker
 date: 2015-04-24T08:27:00+00:00
 author: James Wade
 layout: page
-guid: http://potterieshackspace.org/?page_id=1162
+guid: /?page_id=1162
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2015/04/high-res-wavamaker-square.png
@@ -20,19 +20,19 @@ The space will feature 3D printers, computers, internet of things and open sourc
 
 We aim to open in 2015 however we will be running taster sessions such as robot workshops, Raspberry Pi jams, code clubs and hacklabs.
 
-The project is led by [bITjAM Ltd](http://bitjam.org.uk/), [Staffordshire University](http://staffs.ac.uk/), [Unity](http://www.theunityfoundation.co.uk/) and [Potteries Hackspace](http://potterieshackspace.org/). With special thanks to [PICL](http://picl.uk.com/).
+The project is led by [bITjAM Ltd](http://bitjam.org.uk/), [Staffordshire University](http://staffs.ac.uk/), [Unity](http://www.theunityfoundation.co.uk/) and [Potteries Hackspace](/). With special thanks to [PICL](http://picl.uk.com/).
 
 <div class="tiled-gallery type-rectangular tiled-gallery-unresized" data-original-width="750" data-carousel-extra='{&quot;blog_id&quot;:1,&quot;permalink&quot;:&quot;http:\/\/potterieshackspace.org\/events\/wavemaker\/&quot;,&quot;likes_blog_id&quot;:72703358}' itemscope itemtype="http://schema.org/ImageGallery" >
   <div class="gallery-row" style="width: 750px; height: 632px;" data-original-width="750" data-original-height="632" >
     <div class="gallery-group images-1" style="width: 357px; height: 632px;" data-original-width="357" data-original-height="632" >
       <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="http://potterieshackspace.org/events/wavemaker/wavemaker-business/" border="0" itemprop="url"> 
+        <a href="/events/wavemaker/wavemaker-business/" border="0" itemprop="url"> 
         
         <meta itemprop="width" content="353" />
         
         <meta itemprop="height" content="628" />
         
-        <img data-attachment-id="1169" data-orig-file="http://potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-business.png" data-orig-size="842,1499" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Wavemaker-business" data-image-description="" data-medium-file="http://potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-business-169x300.png" data-large-file="http://potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-business-575x1024.png" src="http://i1.wp.com/potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-business.png?resize=353%2C628" width="353" height="628" data-original-width="353" data-original-height="628" itemprop="http://schema.org/image" title="Wavemaker-business" alt="Wavemaker-business" style="width: 353px; height: 628px;" /> </a>
+        <img data-attachment-id="1169" data-orig-file="/wp-content/uploads/2015/04/Wavemaker-business.png" data-orig-size="842,1499" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Wavemaker-business" data-image-description="" data-medium-file="/wp-content/uploads/2015/04/Wavemaker-business-169x300.png" data-large-file="/wp-content/uploads/2015/04/Wavemaker-business-575x1024.png" src="http://i1.wp.com/potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-business.png?resize=353%2C628" width="353" height="628" data-original-width="353" data-original-height="628" itemprop="http://schema.org/image" title="Wavemaker-business" alt="Wavemaker-business" style="width: 353px; height: 628px;" /> </a>
       </div>
     </div>
     
@@ -40,13 +40,13 @@ The project is led by [bITjAM Ltd](http://bitjam.org.uk/), [Staffordshire Univer
     
     <div class="gallery-group images-1" style="width: 393px; height: 632px;" data-original-width="393" data-original-height="632" >
       <div class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-        <a href="http://potterieshackspace.org/events/wavemaker/wavemaker-schools/" border="0" itemprop="url"> 
+        <a href="/events/wavemaker/wavemaker-schools/" border="0" itemprop="url"> 
         
         <meta itemprop="width" content="389" />
         
         <meta itemprop="height" content="628" />
         
-        <img data-attachment-id="1170" data-orig-file="http://potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-schools.png" data-orig-size="842,1359" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Wavemaker-schools" data-image-description="" data-medium-file="http://potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-schools-186x300.png" data-large-file="http://potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-schools-634x1024.png" src="http://i1.wp.com/potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-schools.png?resize=389%2C628" width="389" height="628" data-original-width="389" data-original-height="628" itemprop="http://schema.org/image" title="Wavemaker-schools" alt="Wavemaker-schools" style="width: 389px; height: 628px;" /> </a>
+        <img data-attachment-id="1170" data-orig-file="/wp-content/uploads/2015/04/Wavemaker-schools.png" data-orig-size="842,1359" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Wavemaker-schools" data-image-description="" data-medium-file="/wp-content/uploads/2015/04/Wavemaker-schools-186x300.png" data-large-file="/wp-content/uploads/2015/04/Wavemaker-schools-634x1024.png" src="http://i1.wp.com/potterieshackspace.org/wp-content/uploads/2015/04/Wavemaker-schools.png?resize=389%2C628" width="389" height="628" data-original-width="389" data-original-height="628" itemprop="http://schema.org/image" title="Wavemaker-schools" alt="Wavemaker-schools" style="width: 389px; height: 628px;" /> </a>
       </div>
     </div>
     

@@ -4,7 +4,7 @@ title: Potteries Dorkbot
 date: 2014-09-17T09:00:37+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=668
+guid: /?p=668
 permalink: /2014/09/17/potteries-dorkbot/
 spacious_page_layout:
   - default_layout
@@ -37,6 +37,6 @@ We&#8217;re seeking people to host two or three presentations (about 20-30 minut
 
 You&#8217;ll find lots more information on [what a dorkbot meeting is all about](http://www.dorkbot.org/startadorkbot/) on the dorkbot website.
 
-If you&#8217;d like to present at a dorkbot meeting, [please get in touch!](http://potterieshackspace.org/contact/)
+If you&#8217;d like to present at a dorkbot meeting, [please get in touch!](/contact/)
 
 Edit: Although we&#8217;re called &#8220;Potteries&#8221; and are currently operating out of Newcastle-under-Lyme, we&#8217;re really covering the entire of Staffordshire, so don&#8217;t be shy, everybody will be welcomed!

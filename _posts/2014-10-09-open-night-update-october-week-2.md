@@ -4,7 +4,7 @@ title: Open Night Update October Week 2
 date: 2014-10-09T15:07:13+00:00
 author: James Wade
 layout: post
-guid: http://potterieshackspace.org/?p=767
+guid: /?p=767
 permalink: /2014/10/09/open-night-update-october-week-2/
 spacious_page_layout:
   - default_layout
