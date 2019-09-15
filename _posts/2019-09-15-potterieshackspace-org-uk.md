@@ -1,5 +1,5 @@
 ---
-title: New domain: potterieshackspace.org.uk
+title: potterieshackspace.org.uk
 date: 2019-09-15
 author: James Wade
 layout: post
