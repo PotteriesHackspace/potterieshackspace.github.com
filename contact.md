@@ -4,7 +4,7 @@ title: Contact
 date: 2014-08-10T16:56:57+00:00
 author: James Wade
 layout: page
-guid: http://potterieshackspace.org/?page_id=418
+guid: ?page_id=418
 spacious_page_layout:
   - default_layout
 ---

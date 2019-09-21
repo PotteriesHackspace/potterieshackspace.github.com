@@ -4,7 +4,7 @@ title: Join
 date: 2014-08-11T10:01:59+00:00
 author: James Wade
 layout: page
-guid: http://potterieshackspace.org/?page_id=435
+guid: /?page_id=435
 spacious_page_layout:
   - default_layout
 ---

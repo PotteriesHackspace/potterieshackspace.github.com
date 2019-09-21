@@ -4,7 +4,7 @@ title: Equipment
 date: 2014-11-05T09:55:08+00:00
 author: James Wade
 layout: page
-guid: http://potterieshackspace.org/?page_id=804
+guid: /?page_id=804
 spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2013/02/dsc_0222.jpg
