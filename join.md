@@ -52,4 +52,8 @@ We have a very simple policy for membership fees:
 
 A subscription of £15 per month is recommended, a minimum of £5 per month is encouraged.
 
+**Before you join**
+
+The best way to get involved is to become part of our community online and join the discussions on our mailing list. We’d love to get to know you, so the easiest way to get started is by introducing yourself to us on the [Potteries Hackspace groups mailing list](https://groups.google.com/group/potteries-hackspace).
+
 <a style="color: #ffffff; font-size: 16px; background: #ea212e; padding: 10px 20px 10px 20px; text-decoration: none; margin-bottom: 1em; display: inline-block;" href="https://docs.google.com/forms/d/1cqgWs-c3xATXALOHq8jezVRGAktudUrEglpMaiO6Hsg/viewform">Become a member</a>
