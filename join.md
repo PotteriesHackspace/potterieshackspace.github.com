@@ -32,7 +32,7 @@ There are a number of benefits to becoming a member, they are:
   * Can attend the AGM and be elected on to the Management Committee
   * Guests are welcome
 
-* These items depend on a physical space and are subject to availability, please check the mailing list for the current status and access.
+Note: Items marked with a star will depend on a physical space and are subject to availability, please check the mailing list for the current status and access.
 
 **Membership Rules**
 
