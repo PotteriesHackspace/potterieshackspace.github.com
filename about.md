@@ -14,10 +14,12 @@ A [hackspace](https://en.wikipedia.org/wiki/Hackerspace) is a place for people w
 
 Our aim is to provide and maintain a shared community workspace and equipment, to further our skills and share experience with the community around Stoke-on-Trent and the wider Potteries area.
 
-Members have 24/7 access to our space and we host public [events](/events/) including weekly open evenings (Tuesdays, 7pm).
+Potteries Hackspace is a membership organisation (SIC 94990) and as such is funded in most part by membership [subscriptions](/join).
+
+Members have 24/7 access to our space and we host public [events](/events) including weekly open evenings (Tuesdays, 7pm).
 
 From computer networks to welding, electrical engineering to wood turning, and even a kitchen sink, we enjoy making things with the technologies available.
 
-Whether you&#8217;ve got a project in mind, somethings you&#8217;re getting stuck with, or even if you&#8217;re just curious to see what&#8217;s going on, all are welcome to come down and have a brew.
+Whether you've got a project in mind, somethings you're getting stuck with, or even if you're just curious to see what's going on, all are welcome to come down and have a brew.
 
 Safety is important to us, so when you visit please stay safe, especially around tools and equipment; follow guidance (such as do not be on fire), and any children are to bring one of their adults to be responsible for them.
