@@ -18,7 +18,7 @@ To provide and maintain a shared community workspace and equipment, to further 
 ## Our organisation
 Potteries Hackspace is a membership [constitutional](https://docs.google.com/document/d/1n_r_CWQdehnsC863m5AqWtzrILA6IF8CT7PReLStWqw/pub) organisation (SIC 94990) with charitable aims and as such is funded in most part by membership [subscriptions](/join).
 
-### Our space
+## Our space
 Members have 24/7 access to our space and we host public [events](/events) including weekly open evenings (Tuesdays, 7pm).
 
 From computer networks to welding, electrical engineering to wood turning, and even a kitchen sink, we enjoy making things with the technologies available.
