@@ -10,7 +10,7 @@ There are [hackspaces all around the world](http://hackerspaces.org/wiki/List_of
 
 A [hackspace](https://en.wikipedia.org/wiki/Hackerspace) is a place for people with common interests, often in computers, technology, science, art, can meet, socialise and/or collaborate.
 
-**Potteries Hackspace** formed in 2010 as a group of technology enthusiasts, engineers and creative minds that started meeting on a regular basis in an effort to collaborate on various projects.
+**Potteries Hackspace** formed in [2010](https://nwhackspace.wordpress.com/2010/05/05/a-hackspace-for-the-potteries/) as a group of technology enthusiasts, engineers and creative minds that started meeting on a regular basis in an effort to collaborate on various projects.
 
 Our aim is to provide and maintain a shared community workspace and equipment, to further our skills and share experience with the community around Stoke-on-Trent and the wider Potteries area.
 
