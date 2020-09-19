@@ -22,7 +22,7 @@ The Annual General Meetings were minuted and are available to any interested par
 
 Highlights were:
 - [Potteries Hackspace Activities for 2020 presentation](https://docs.google.com/presentation/d/e/2PACX-1vQ5j95o9q6ZDGRAzJFqeZEt8apb6f2YYAP8dAKwtGMRnUQ7796WThi9QgveylOufMY8py9nnLqf2bUK/pub?start=false&loop=false&delayms=3000)
-- Although we are currently operating at a loss, an injection of cash shuould allow us to explore exciting new options
+- Although we are currently operating at a loss, an injection of cash should allow us to explore exciting new options
 - The organisation will continue to be chaired by James, with Paul as Treasurer, with support from Pete and Jib as officers (time permitting)
 - We have agreed to change our Open Nights to Wednesday
 - Due to coronavirus, we've not been attending our Open Nights. We're going to relaunch them monthly, on the first Wednesday of every month
