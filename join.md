@@ -16,7 +16,7 @@ Potteries Hackspace is a membership organisation (SIC 94990) and as such is fund
 
 The best way to get involved is to become part of our community online and join the discussions on our mailing list. We'd love to get to know you, so the easiest way to get started is by introducing yourself to us on the [Potteries Hackspace groups mailing list](https://groups.google.com/group/potteries-hackspace).
 
-You can also come on down for one of our meetups, every Tuesday or any of the other events you see on our calendar.
+You can also come on down for one of our [Open Nights](/contact) or any of the other [events](/events) you see on our calendar.
 
 If it’s your first time, don’t be shy, we’re a friendly bunch, simply come along, say hello and introduce yourself.
 
