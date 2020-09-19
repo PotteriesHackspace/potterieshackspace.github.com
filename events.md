@@ -9,9 +9,9 @@ spacious_page_layout:
   - default_layout
 image: /wp-content/uploads/2014/09/EMFCamp-DSC_2582.jpg
 ---
-## Free Open Hack Nights
+## Free Open Hack Sessions
 
-Our "Open Evening" is the first Wednesday of every month from 7PM for anyone to attend.
+Our "[Open Evenings](/events/open-evenings)" are the first Wednesday of every month from 7PM for anyone to attend.
 
 ## Events Calendar
 
