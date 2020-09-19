@@ -18,23 +18,15 @@ The best way to get involved is to become part of our community online and join 
 
 We’d love to get to know you, so the easiest way to get started is by introducing yourself to us on the mailing list, tell us a bit about yourself.
 
-**Meet us**
+**Our space**
 
-Our "Open Evening" is the first Wednesday of every month from 7PM for anyone to attend.
+We host a number of [events](/events) at our space, so please check those out.
+
+You'll find our space at:
 
 * [50 Broad St, Hanley, Stoke on Trent, ST1 4EU](https://w3w.co/artist.watch.rents).
 
-Please check [our calendar](https://www.google.com/calendar/embed?src=00nfs1crll5qrehok98qmmitlc%40group.calendar.google.com&ctz=Europe/London) for other events we're involved in.
-
-If you're coming to join us, you might want to give us a call.
-
-You can reach us on:
-
-* <a href="tel:01782692995">01782 692995</a>
-
-<small>Please note: This number is only operated while we're on-site.</small>
-
-*Note:* If this is your first time, then it might be worth getting in touch and introducing yourself through our mailing list or social media first.
+*Note:* If this is your first time, then please get in touch and introducing yourself through our mailing list or social media first.
 
 **Get social**
 
