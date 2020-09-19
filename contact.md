@@ -20,7 +20,7 @@ We’d love to get to know you, so the easiest way to get started is by introduc
 
 **Meet us**
 
-Our "Open Evening" is every Tuesday from 7PM for anyone to attend.
+Our "Open Evening" is the first Wednesday of every month from 7PM for anyone to attend.
 
 * [50 Broad St, Hanley, Stoke on Trent, ST1 4EU](https://w3w.co/artist.watch.rents).
 
