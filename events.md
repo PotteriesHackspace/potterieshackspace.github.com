@@ -11,7 +11,7 @@ image: /wp-content/uploads/2014/09/EMFCamp-DSC_2582.jpg
 ---
 ## Free Open Hack Nights
 
-Our open evening is every **Tuesday from 7PM** at our hackspace.
+Our "Open Evening" is the first Wednesday of every month from 7PM for anyone to attend.
 
 ## Events Calendar
 
