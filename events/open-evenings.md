@@ -1,12 +1,12 @@
 ---
-title: Open Evening
+title: Open Evenings
 date: 2020-09-19
 author: James Wade
 layout: page
 parent: events
 ---
 
-Our "Open Evening" is the first Wednesday of every month from 7PM for anyone to attend.
+Our "Open Evenings" are the first Wednesday of every month from 7PM for anyone to attend.
 
 * [50 Broad St, Hanley, Stoke on Trent, ST1 4EU](https://w3w.co/artist.watch.rents).
 
