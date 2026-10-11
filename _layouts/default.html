@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 {% include head.html %}
 <body>
 {% include header.html %}
@@ -15,6 +15,11 @@
     </div>
 </div>
 <div class="col-md-12">
+    {% if page.index %}
+    <div class="row"><div class="col-md-10 col-md-offset-1">{% include current-status.html %}</div></div>
+    {% else %}
+    <div class="row"><div class="col-md-10 col-md-offset-1"><p class="status-summary">Potteries Hackspace is dormant, with no usable workshop or regular open nights. <a href="{{ '/' | relative_url }}#current-status">Current status — October 2026</a>.</p></div></div>
+    {% endif %}
     {{content}}
 </div>
 <div class="col-md-12 share-div">

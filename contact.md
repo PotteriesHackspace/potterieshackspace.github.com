@@ -8,32 +8,26 @@ guid: ?page_id=418
 spacious_page_layout:
   - default_layout
 ---
-There are a number of ways to get in touch with us.
+## Current position
 
-**Join our Discussion Group Mailing List**
+Potteries Hackspace is dormant. We have no usable workshop and no regular open nights. Please do not travel to a former workshop address expecting to visit us.
 
-The best way to get involved is to become part of our community online and join the discussions on our mailing list.
+## Staying in touch
 
-  * [Join the group](http://groups.google.com/group/potteries-hackspace)
+The [Potteries Hackspace Google Group](https://groups.google.com/g/potteries-hackspace) is our primary, monitored contact route for enquiries and community discussion.
 
-We’d love to get to know you, so the easiest way to get started is by introducing yourself to us on the mailing list, tell us a bit about yourself.
+Visit the group to read updates, join the discussion or introduce yourself. Google may ask you to sign in to join or post.
 
-**Our space**
+## Previously listed community channels
 
-We host a number of [events](/events) at our space, so please check those out.
+The other links below were published on this site before the group paused. Their inclusion does not confirm that they remain active or monitored. Some services may require an account or group membership.
 
-You'll find our space at:
+{% for link in site.social %}
+{% unless link.title == "Discussion Group" %}
+* [{{ link.title }}]({{ link.url }}) — monitoring unconfirmed.
+{% endunless %}
+{% endfor %}
 
-* [50 Broad St, Hanley, Stoke on Trent, ST1 4EU](https://w3w.co/artist.watch.rents).
+The old calendar and IRC details are historical references, not a current event programme or confirmed contact route.
 
-*Note:* If this is your first time, then please get in touch and introducing yourself through our mailing list or social media first.
-
-**Get social**
-
-  * [Google Group](http://groups.google.com/group/potteries-hackspace)
-  * [Facebook Group](https://www.facebook.com/groups/472345606113810/)
-  * [Twitter](https://www.twitter.com/potterieshacks)
-  * [LinkedIn Group](https://www.linkedin.com/groups/PotteriesHackspace-4759759)
-  * [GitHub](https://github.com/PotteriesHackspace/)
-  * [YouTube](https://www.youtube.com/user/potterieshackspace)
-  * [IRC](irc://chat.freenode.net/potterieshackspace)
+For the group's present position, see the [current-status notice](/#current-status).

@@ -4,6 +4,7 @@ title: Wavemaker
 date: 2015-04-24T08:27:00+00:00
 author: James Wade
 layout: page
+historical: true
 guid: /?page_id=1162
 spacious_page_layout:
   - default_layout

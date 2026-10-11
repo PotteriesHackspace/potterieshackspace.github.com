@@ -3,6 +3,7 @@ title: 3D Printer
 date: 2016-03-03
 author: James Wade
 layout: page
+historical: true
 spacious_page_layout:
   - default_layout
 image: http://i.imgur.com/oWgkpCF.jpg
