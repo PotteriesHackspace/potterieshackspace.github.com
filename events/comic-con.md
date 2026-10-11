@@ -4,6 +4,7 @@ title: Comic Con
 date: 2015-04-27T19:36:52+00:00
 author: James Wade
 layout: page
+historical: true
 guid: /?page_id=1175
 spacious_page_layout:
   - default_layout

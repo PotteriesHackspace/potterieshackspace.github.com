@@ -3,6 +3,7 @@ title: Soapbox Derby
 date: 2017-06-04
 author: James Wade
 layout: page
+historical: true
 image: http://i.imgur.com/paOuX1s.png
 parent: events
 ---

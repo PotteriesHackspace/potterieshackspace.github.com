@@ -4,6 +4,7 @@ title: Community Workshop
 date: 2015-10-19T14:40:54+00:00
 author: James Wade
 layout: page
+historical: true
 guid: /?page_id=1284
 spacious_page_layout:
   - default_layout

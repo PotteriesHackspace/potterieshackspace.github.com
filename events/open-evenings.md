@@ -5,19 +5,10 @@ author: James Wade
 layout: page
 parent: events
 ---
+## Open evenings are paused
 
-Our "Open Evenings" are the first Wednesday of every month from 7PM for anyone to attend.
+Potteries Hackspace has no usable workshop and no regular open-night programme as of October 2026.
 
-* [50 Broad St, Hanley, Stoke on Trent, ST1 4EU](https://w3w.co/artist.watch.rents).
+The Wednesday open evenings, Broad Street address and on-site phone number previously listed here are no longer current visiting information. Please do not travel to the former workshop expecting an open evening.
 
-Please check [our calendar](https://www.google.com/calendar/embed?src=00nfs1crll5qrehok98qmmitlc%40group.calendar.google.com&ctz=Europe/London) for other events we're involved in.
-
-If you're coming to join us, you might want to give us a call.
-
-You can reach us on:
-
-* <a href="tel:01782692995">01782 692995</a>
-
-<small>Please note: This number is only operated while we're on-site.</small>
-
-*Note:* If this is your first time, then it might be worth getting in touch and introducing yourself through our [mailing list or social media first](/contact).
+See our [current status](/#current-status) and [Google Group](https://groups.google.com/g/potteries-hackspace). Records of previous events remain in the [historical archive](/archive).

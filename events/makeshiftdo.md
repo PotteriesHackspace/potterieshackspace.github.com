@@ -4,6 +4,7 @@ title: Make:Shift:Do
 date: 2015-09-18T13:30:55+00:00
 author: James Wade
 layout: page
+historical: true
 guid: /?page_id=1271
 spacious_page_layout:
   - default_layout

@@ -4,6 +4,7 @@ title: Inter HackSpace Robot Wars 2015
 date: 2015-07-25T18:29:24+00:00
 author: sdf
 layout: page
+historical: true
 guid: /?page_id=1207
 spacious_page_layout:
   - default_layout

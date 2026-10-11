@@ -4,6 +4,7 @@ title: Contribute
 date: 2015-09-16T21:47:55+00:00
 author: James Wade
 layout: page
+historical: true
 guid: /?page_id=1184
 spacious_page_layout:
   - default_layout

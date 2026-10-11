@@ -3,6 +3,7 @@ title: Repair Cafe
 date: 2017-06-04
 author: James Wade
 layout: page
+historical: true
 image: http://i.imgur.com/wFAOLv0.png
 parent: events
 ---

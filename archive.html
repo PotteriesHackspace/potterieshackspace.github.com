@@ -1,0 +1,15 @@
+---
+layout: page
+title: Archive
+permalink: /archive
+---
+<p>News, projects and announcements from Potteries Hackspace's history. These posts retain their original dates and wording. For today's position, read our <a href="{{ '/' | relative_url }}#current-status">current-status notice</a>.</p>
+{% assign years = site.posts | group_by_exp: 'post', "post.date | date: '%Y'" %}
+{% for year in years %}
+<h2>{{ year.name }}</h2>
+<ul>
+{% for post in year.items %}
+    <li><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%-d %B %Y' }}</time> — <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+{% endfor %}

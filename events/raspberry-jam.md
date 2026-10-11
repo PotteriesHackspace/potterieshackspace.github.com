@@ -4,6 +4,7 @@ title: Raspberry Jam
 date: 2015-04-29T14:12:19+00:00
 author: James Wade
 layout: page
+historical: true
 guid: /?page_id=1181
 spacious_page_layout:
   - default_layout
